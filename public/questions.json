@@ -1,0 +1,4231 @@
+{
+  "questionsPerSession": 40,
+  "questions": [
+    {
+      "id": "les01-q01",
+      "topic": "Nederland en het water",
+      "question": "Hoeveel procent van Nederland ligt onder de zeespiegel?",
+      "options": [
+        "± 25%",
+        "± 50%",
+        "± 75%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ongeveer een kwart van Nederland ligt onder de zeespiegel."
+    },
+    {
+      "id": "les01-q02",
+      "topic": "Nederland en het water",
+      "question": "Wat is de meest zuidelijke provincie van Nederland?",
+      "options": [
+        "Limburg",
+        "Zeeland",
+        "Zuid-Holland"
+      ],
+      "correctIndex": 0,
+      "explanation": "Limburg ligt het meest in het zuiden van Nederland."
+    },
+    {
+      "id": "les01-q03",
+      "topic": "Nederland en het water",
+      "question": "Welke stad ligt het dichtst bij de zee?",
+      "options": [
+        "Amsterdam",
+        "Den Haag",
+        "Tilburg"
+      ],
+      "correctIndex": 1,
+      "explanation": "Den Haag ligt aan de kust (Scheveningen)."
+    },
+    {
+      "id": "les01-q04",
+      "topic": "Nederland en het water",
+      "question": "Wat is de hoofdstad van Nederland?",
+      "options": [
+        "Amsterdam",
+        "Den Haag",
+        "Rotterdam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amsterdam is de hoofdstad. De regering zit wel in Den Haag."
+    },
+    {
+      "id": "les01-q05",
+      "topic": "Nederland en het water",
+      "question": "In welke stad is het parlement van Nederland?",
+      "options": [
+        "Amsterdam",
+        "Den Haag",
+        "Rotterdam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het parlement (Eerste en Tweede Kamer) zit in Den Haag."
+    },
+    {
+      "id": "les01-q06",
+      "topic": "Nederland en het water",
+      "question": "In welke stad is de grootste zeehaven van Europa?",
+      "options": [
+        "Amsterdam",
+        "Rotterdam",
+        "Utrecht"
+      ],
+      "correctIndex": 1,
+      "explanation": "De haven van Rotterdam is de grootste zeehaven van Europa."
+    },
+    {
+      "id": "les01-q07",
+      "topic": "Nederland en het water",
+      "question": "In welke stad is de hoogste kerktoren van Nederland (de Domtoren)?",
+      "options": [
+        "Den Haag",
+        "Rotterdam",
+        "Utrecht"
+      ],
+      "correctIndex": 2,
+      "explanation": "De Domtoren staat in Utrecht en is de hoogste kerktoren van Nederland."
+    },
+    {
+      "id": "les01-q08",
+      "topic": "Nederland en het water",
+      "question": "Waar ligt de Randstad?",
+      "options": [
+        "In het noorden van Nederland",
+        "In het oosten van Nederland",
+        "In het westen van Nederland"
+      ],
+      "correctIndex": 2,
+      "explanation": "De Randstad ligt in het westen: Amsterdam, Rotterdam, Den Haag en Utrecht."
+    },
+    {
+      "id": "les01-q09",
+      "topic": "Nederland en het water",
+      "question": "Wat ligt niet in het noorden van Nederland?",
+      "options": [
+        "Groningen",
+        "De Veluwe",
+        "De Waddeneilanden"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Veluwe ligt in het midden/oosten van Nederland (Gelderland)."
+    },
+    {
+      "id": "les01-q10",
+      "topic": "Nederland en het water",
+      "question": "Welke 2 buurlanden heeft Nederland?",
+      "options": [
+        "België en Duitsland",
+        "België en Frankrijk",
+        "België en Friesland"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nederland grenst aan België in het zuiden en aan Duitsland in het oosten."
+    },
+    {
+      "id": "les01-q11",
+      "topic": "Nederland en het water",
+      "question": "In welke provincie zijn er veel duinen?",
+      "options": [
+        "Friesland",
+        "Noord-Holland",
+        "Zeeland"
+      ],
+      "correctIndex": 1,
+      "explanation": "Langs de kust van Noord-Holland (en Zuid-Holland) liggen veel duinen."
+    },
+    {
+      "id": "les01-q12",
+      "topic": "Nederland en het water",
+      "question": "In welk jaar was de Watersnoodramp?",
+      "options": [
+        "1940",
+        "1953",
+        "1995"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Watersnoodramp was in de nacht van 31 januari op 1 februari 1953 in Zeeland."
+    },
+    {
+      "id": "les01-q13",
+      "topic": "Nederland en het water",
+      "question": "Hoe heten de dijken die na de Watersnoodramp in Zeeland zijn gemaakt?",
+      "options": [
+        "De Afsluitdijk",
+        "De Deltawerken",
+        "De Flevopolder"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na 1953 zijn de Deltawerken in Zeeland gebouwd om het land te beschermen."
+    },
+    {
+      "id": "les01-q14",
+      "topic": "Nederland en het water",
+      "question": "Wat was er vroeger op de plaats van de Noordoostpolder?",
+      "options": [
+        "Bos",
+        "Land",
+        "Water"
+      ],
+      "correctIndex": 2,
+      "explanation": "De Noordoostpolder is drooggelegd land, vroeger was hier de Zuiderzee."
+    },
+    {
+      "id": "les01-q15",
+      "topic": "Nederland en het water",
+      "question": "Hoe heette het IJsselmeer vroeger?",
+      "options": [
+        "Het Haarlemmermeer",
+        "De Waddenzee",
+        "De Zuiderzee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Na de aanleg van de Afsluitdijk (1932) werd de Zuiderzee het IJsselmeer."
+    },
+    {
+      "id": "les02-q01",
+      "topic": "Democratie in Nederland",
+      "question": "Waarvoor zijn er iedere 4 jaar verkiezingen?",
+      "options": [
+        "De rechters",
+        "De minister-president",
+        "De Tweede Kamer"
+      ],
+      "correctIndex": 2,
+      "explanation": "De Tweede Kamer wordt elke 4 jaar gekozen."
+    },
+    {
+      "id": "les02-q02",
+      "topic": "Democratie in Nederland",
+      "question": "Mag een immigrant (van buiten de Europese Unie) zonder Nederlandse nationaliteit stemmen?",
+      "options": [
+        "Ja, na 5 jaar",
+        "Ja, na 5 jaar voor de gemeenteraad",
+        "Nee, je moet eerst Nederlander worden"
+      ],
+      "correctIndex": 1,
+      "explanation": "Niet-EU immigranten mogen na 5 jaar legaal verblijf alleen stemmen voor de gemeenteraad."
+    },
+    {
+      "id": "les02-q03",
+      "topic": "Democratie in Nederland",
+      "question": "Hoe oud moet je zijn om te stemmen?",
+      "options": [
+        "16",
+        "18",
+        "21"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vanaf 18 jaar mag je stemmen in Nederland."
+    },
+    {
+      "id": "les02-q04",
+      "topic": "Democratie in Nederland",
+      "question": "Wat kiest het volk niet zelf?",
+      "options": [
+        "De Eerste Kamer",
+        "De gemeenteraad",
+        "De Tweede Kamer"
+      ],
+      "correctIndex": 0,
+      "explanation": "De Eerste Kamer wordt gekozen door de Provinciale Staten, niet rechtstreeks door het volk."
+    },
+    {
+      "id": "les02-q05",
+      "topic": "Democratie in Nederland",
+      "question": "Hoeveel mensen zitten er in de Tweede Kamer?",
+      "options": [
+        "75",
+        "150",
+        "600"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Tweede Kamer telt 150 leden."
+    },
+    {
+      "id": "les02-q06",
+      "topic": "Democratie in Nederland",
+      "question": "Hoeveel partijen zijn er in de Tweede Kamer?",
+      "options": [
+        "2",
+        "3",
+        "Meer dan 3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederland heeft veel politieke partijen — meestal meer dan 10 in de Tweede Kamer."
+    },
+    {
+      "id": "les02-q07",
+      "topic": "Democratie in Nederland",
+      "question": "Wie maakt nieuwe wetten?",
+      "options": [
+        "De Eerste Kamer",
+        "De koning",
+        "De Tweede Kamer"
+      ],
+      "correctIndex": 2,
+      "explanation": "De Tweede Kamer maakt en stemt over nieuwe wetten. De Eerste Kamer controleert daarna."
+    },
+    {
+      "id": "les02-q08",
+      "topic": "Democratie in Nederland",
+      "question": "Kiezen de burgers de burgemeester?",
+      "options": [
+        "Ja",
+        "Nee, de gemeenteraad kiest de burgemeester",
+        "Nee, de gemeenteraad en de regering kiezen samen de burgemeester"
+      ],
+      "correctIndex": 2,
+      "explanation": "De burgemeester wordt benoemd door de regering (de Kroon), op aanbeveling van de gemeenteraad."
+    },
+    {
+      "id": "les02-q09",
+      "topic": "Democratie in Nederland",
+      "question": "Wie is de baas in Nederland?",
+      "options": [
+        "De koning",
+        "De premier",
+        "Het volk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederland is een democratie — het volk is de baas, via gekozen vertegenwoordigers."
+    },
+    {
+      "id": "les02-q10",
+      "topic": "Democratie in Nederland",
+      "question": "Wie is de baas van de politie in een gemeente?",
+      "options": [
+        "De burgemeester",
+        "De minister-president",
+        "De minister van Justitie"
+      ],
+      "correctIndex": 0,
+      "explanation": "De burgemeester is verantwoordelijk voor de openbare orde en de politie in zijn gemeente."
+    },
+    {
+      "id": "les03-q01",
+      "topic": "Belangrijke dagen",
+      "question": "Wat is geen christelijk feest?",
+      "options": [
+        "Hemelvaartsdag",
+        "Oudejaarsdag",
+        "Pasen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oudejaarsdag (31 december) is geen christelijk feest, maar de laatste dag van het jaar."
+    },
+    {
+      "id": "les03-q02",
+      "topic": "Belangrijke dagen",
+      "question": "Wanneer is het Kerstmis?",
+      "options": [
+        "24 december",
+        "25 december",
+        "25 en 26 december"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederland viert Eerste Kerstdag (25 december) én Tweede Kerstdag (26 december)."
+    },
+    {
+      "id": "les03-q03",
+      "topic": "Belangrijke dagen",
+      "question": "Op welke dagen is het Pasen?",
+      "options": [
+        "Dat is ieder jaar anders",
+        "Op zaterdag en zondag",
+        "Op zondag en maandag"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pasen is altijd op een zondag (Eerste Paasdag) en maandag (Tweede Paasdag); de datum verandert wel ieder jaar."
+    },
+    {
+      "id": "les03-q04",
+      "topic": "Belangrijke dagen",
+      "question": "Op welke datum vieren we de verjaardag van de koning?",
+      "options": [
+        "30 januari",
+        "27 april",
+        "5 mei"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koningsdag is op 27 april, de verjaardag van koning Willem-Alexander."
+    },
+    {
+      "id": "les03-q05",
+      "topic": "Belangrijke dagen",
+      "question": "Wat is geen officiële vrije dag?",
+      "options": [
+        "Hemelvaartsdag",
+        "Koningsdag",
+        "Oudejaarsdag"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oudejaarsdag is geen officiële vrije dag (Nieuwjaarsdag wel)."
+    },
+    {
+      "id": "les03-q06",
+      "topic": "Belangrijke dagen",
+      "question": "Wat trakteren ouders bij de geboorte?",
+      "options": [
+        "Beschuit met muisjes",
+        "Eierkoeken",
+        "Gebak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bij de geboorte tracteren Nederlandse ouders traditioneel beschuit met muisjes (roze of blauw)."
+    },
+    {
+      "id": "les03-q07",
+      "topic": "Belangrijke dagen",
+      "question": "Wat zeg je tegen de familie als iemand overleden is?",
+      "options": [
+        "Beterschap",
+        "Gecondoleerd",
+        "Veel succes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Je zegt 'Gecondoleerd' om medeleven te tonen bij een sterfgeval."
+    },
+    {
+      "id": "les03-q08",
+      "topic": "Belangrijke dagen",
+      "question": "Wat staat er op een kaartje als iemand overleden is?",
+      "options": [
+        "Beterschap",
+        "Gecondoleerd",
+        "Met oprechte deelneming"
+      ],
+      "correctIndex": 2,
+      "explanation": "Op een condoleancekaart schrijf je formeel 'Met oprechte deelneming'."
+    },
+    {
+      "id": "les03-q09",
+      "topic": "Belangrijke dagen",
+      "question": "Wat doen Nederlanders meestal niet op een verjaardag?",
+      "options": [
+        "Alcohol drinken",
+        "Discussiëren",
+        "Sporten"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederlanders zitten op verjaardagen meestal in een kring, eten taart en drinken — sporten doen ze niet."
+    },
+    {
+      "id": "les03-q10",
+      "topic": "Belangrijke dagen",
+      "question": "Wat is niet gewoon in Nederland?",
+      "options": [
+        "Op je beurt wachten",
+        "Op je kinderen letten",
+        "Te laat op een afspraak komen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederlanders zijn punctueel; te laat komen wordt niet gewaardeerd."
+    },
+    {
+      "id": "les04-q01",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Wie krijgt geen subsidie?",
+      "options": [
+        "Mevrouw De Jong wil een winkel starten",
+        "Meneer De Vries wil een garage bouwen",
+        "De voetbalclub wil een nieuwe schuur bouwen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor het bouwen van een garage bij je eigen huis krijg je geen subsidie."
+    },
+    {
+      "id": "les04-q02",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Welke belasting betaal je niet aan de gemeente?",
+      "options": [
+        "Afvalstoffenheffing",
+        "Onroerende-zaak belasting (ozb)",
+        "Wegenbelasting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wegenbelasting (motorrijtuigenbelasting) gaat naar de Belastingdienst, niet de gemeente."
+    },
+    {
+      "id": "les04-q03",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Wat is inkomstenbelasting?",
+      "options": [
+        "Belasting die je betaalt als je een koophuis hebt",
+        "Belasting die je betaalt over je salaris",
+        "Belasting die je betaalt over het ophalen van afval"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inkomstenbelasting is belasting over je inkomen (salaris, winst e.d.)."
+    },
+    {
+      "id": "les04-q04",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Waar moet je huurtoeslag aanvragen?",
+      "options": [
+        "Bij de Belastingdienst",
+        "Bij de gemeente",
+        "Bij de woningbouwvereniging"
+      ],
+      "correctIndex": 0,
+      "explanation": "Huurtoeslag (en zorg-, kinderopvang-, kindgebonden toeslag) vraag je aan bij de Belastingdienst."
+    },
+    {
+      "id": "les04-q05",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Krijgt iedereen dezelfde zorgtoeslag?",
+      "options": [
+        "Ja",
+        "Nee, iedereen krijgt zorgtoeslag, maar het bedrag hangt van het inkomen af",
+        "Nee, niet iedereen krijgt zorgtoeslag en het bedrag hangt af van het inkomen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zorgtoeslag is afhankelijk van je inkomen — boven een bepaald inkomen krijg je niets."
+    },
+    {
+      "id": "les04-q06",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Welke bijdrage is voor alle ouders?",
+      "options": [
+        "Kinderbijslag",
+        "Kinderopvangtoeslag",
+        "Zorgtoeslag"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kinderbijslag krijgen alle ouders met kinderen onder de 18, ongeacht inkomen."
+    },
+    {
+      "id": "les04-q07",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Welke uitkering is voor mensen vanaf 65 (of 66, 67) jaar?",
+      "options": [
+        "AOW",
+        "WIA",
+        "WW"
+      ],
+      "correctIndex": 0,
+      "explanation": "AOW is de basis-pensioenuitkering vanaf de AOW-leeftijd."
+    },
+    {
+      "id": "les04-q08",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Iemand is langer dan 2 jaar ziek. Welke uitkering krijgt hij?",
+      "options": [
+        "AOW",
+        "WIA",
+        "Ziektewet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na 2 jaar ziekte ga je van de Ziektewet naar de WIA (Wet werk en inkomen naar arbeidsvermogen)."
+    },
+    {
+      "id": "les04-q09",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Wat wordt door de werkgever betaald?",
+      "options": [
+        "WIA",
+        "WW",
+        "Ziektegeld"
+      ],
+      "correctIndex": 2,
+      "explanation": "De werkgever betaalt het loon door tijdens ziekte (Ziektewet/loondoorbetaling), de eerste 2 jaar."
+    },
+    {
+      "id": "les04-q10",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Waar moet je een bijstandsuitkering aanvragen?",
+      "options": [
+        "Bij de gemeente",
+        "Bij het UWV WERKbedrijf",
+        "Bij de Sociale Verzekeringsbank"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bijstand vraag je aan bij de gemeente waar je woont."
+    },
+    {
+      "id": "les04-q11",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Je hebt een bijstandsuitkering. Moet je werk zoeken?",
+      "options": [
+        "Ja",
+        "Ja, maar niet als je een alleenstaande ouder bent met jonge kinderen",
+        "Nee, dat is niet verplicht"
+      ],
+      "correctIndex": 0,
+      "explanation": "In principe moet iedereen met bijstand werk zoeken (sollicitatieplicht)."
+    },
+    {
+      "id": "les04-q12",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Je hebt WW. Moet je werk zoeken?",
+      "options": [
+        "Ja",
+        "Ja, maar niet als je een alleenstaande ouder bent met jonge kinderen",
+        "Nee, dat is niet verplicht"
+      ],
+      "correctIndex": 0,
+      "explanation": "Met WW moet je altijd actief werk zoeken en sollicitaties laten zien."
+    },
+    {
+      "id": "les04-q13",
+      "topic": "Belasting, subsidie en uitkering",
+      "question": "Je hebt een uitkering maar vindt werk voor 3 uur per week. Moet het UWV WERKbedrijf het weten?",
+      "options": [
+        "Ja",
+        "Nee, want het zijn weinig uren",
+        "Ja, maar de uitkering blijft hetzelfde"
+      ],
+      "correctIndex": 0,
+      "explanation": "Je moet alle inkomsten en werkuren altijd melden bij het UWV — ook als het maar weinig is."
+    },
+    {
+      "id": "les05-q01",
+      "topic": "De buren",
+      "question": "Welke hand geven Nederlanders als begroeting?",
+      "options": [
+        "De linkerhand",
+        "De rechterhand",
+        "De linkerhand of de rechterhand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bij een begroeting geef je altijd de rechterhand."
+    },
+    {
+      "id": "les05-q02",
+      "topic": "De buren",
+      "question": "Geven mannen en vrouwen elkaar ook een hand?",
+      "options": [
+        "Ja",
+        "Ja, maar alleen als ze elkaar goed kennen",
+        "Nee"
+      ],
+      "correctIndex": 0,
+      "explanation": "In Nederland is een hand geven tussen mannen en vrouwen heel normaal."
+    },
+    {
+      "id": "les05-q03",
+      "topic": "De buren",
+      "question": "Hoeveel zoenen geven mensen die elkaar goed kennen?",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederlanders geven traditioneel 3 zoenen op de wang aan goede bekenden."
+    },
+    {
+      "id": "les05-q04",
+      "topic": "De buren",
+      "question": "Wat doe je niet als je kennismaakt?",
+      "options": [
+        "Bloemen geven",
+        "Een hand geven",
+        "Je naam zeggen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bloemen geef je niet bij een eerste kennismaking — wel een hand en je naam."
+    },
+    {
+      "id": "les05-q05",
+      "topic": "De buren",
+      "question": "Hoe laat gaan Nederlanders meestal op visite?",
+      "options": [
+        "Om 4 uur 's avonds",
+        "Om 6 uur 's avonds",
+        "Om 8 uur 's avonds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederlanders gaan meestal pas na het avondeten op visite, rond 8 uur."
+    },
+    {
+      "id": "les05-q06",
+      "topic": "De buren",
+      "question": "Moet je een afspraak maken als je bij Nederlanders op visite gaat?",
+      "options": [
+        "Ja",
+        "Ja, maar alleen als je ze niet goed kent",
+        "Nee"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nederlanders houden van plannen — bel of app altijd vooraf voordat je langskomt."
+    },
+    {
+      "id": "les05-q07",
+      "topic": "De buren",
+      "question": "Wat doe je als eerste bij problemen met de buren?",
+      "options": [
+        "De politie bellen",
+        "Met de buren praten",
+        "Met de woningbouwvereniging praten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Je probeert eerst zelf met de buren te praten voordat je hulp zoekt."
+    },
+    {
+      "id": "les05-q08",
+      "topic": "De buren",
+      "question": "Wat kan je niet doen in een buurthuis?",
+      "options": [
+        "Een cursus doen",
+        "Koffiedrinken",
+        "Slapen"
+      ],
+      "correctIndex": 2,
+      "explanation": "In een buurthuis kun je activiteiten doen, maar er overnachten niet."
+    },
+    {
+      "id": "les06-q01",
+      "topic": "De gemeente",
+      "question": "Waarvan hoef je geen aangifte te doen bij de gemeente?",
+      "options": [
+        "Een diploma",
+        "Een geboorte",
+        "Een verhuizing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een diploma registreer je niet bij de gemeente. Geboorte en verhuizing wel."
+    },
+    {
+      "id": "les06-q02",
+      "topic": "De gemeente",
+      "question": "Waar moet je een identiteitskaart aanvragen?",
+      "options": [
+        "Bij de afdeling bevolking van de gemeente",
+        "Bij de IND",
+        "Bij de politie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een Nederlandse identiteitskaart vraag je aan bij de gemeente waar je woont."
+    },
+    {
+      "id": "les06-q03",
+      "topic": "De gemeente",
+      "question": "Wat is geen identiteitsbewijs?",
+      "options": [
+        "Een bankpas",
+        "Een rijbewijs",
+        "Een verblijfsdocument"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een bankpas is geen geldig identiteitsbewijs in Nederland."
+    },
+    {
+      "id": "les06-q04",
+      "topic": "De gemeente",
+      "question": "Vanaf welke leeftijd is een identiteitsbewijs verplicht?",
+      "options": [
+        "12 jaar",
+        "14 jaar",
+        "18 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Nederland geldt de identificatieplicht vanaf 14 jaar."
+    },
+    {
+      "id": "les06-q05",
+      "topic": "De gemeente",
+      "question": "Kan je met een identiteitskaart reizen?",
+      "options": [
+        "Ja",
+        "Ja, maar alleen in Europa",
+        "Nee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Met een Nederlandse ID-kaart reis je binnen Europa; voor verre reizen heb je een paspoort nodig."
+    },
+    {
+      "id": "les06-q06",
+      "topic": "De gemeente",
+      "question": "Waar kan je een DigiD gebruiken?",
+      "options": [
+        "Bij de overheid online",
+        "In de bibliotheek",
+        "In een online winkel"
+      ],
+      "correctIndex": 0,
+      "explanation": "DigiD is je inlogcode voor digitale diensten van de Nederlandse overheid."
+    },
+    {
+      "id": "les06-q07",
+      "topic": "De gemeente",
+      "question": "Wanneer kan je geen Nederlander worden?",
+      "options": [
+        "Als je een dubbele nationaliteit hebt",
+        "Als je korter dan 5 jaar in Nederland woont",
+        "Als je niet getrouwd bent met een Nederlander"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor naturalisatie moet je minimaal 5 jaar legaal in Nederland wonen."
+    },
+    {
+      "id": "les06-q08",
+      "topic": "De gemeente",
+      "question": "Welk afval mag niet bij het restafval?",
+      "options": [
+        "Een batterij",
+        "Een leeg colablikje",
+        "Het deksel van een pen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Batterijen zijn klein chemisch afval en moeten apart worden ingeleverd."
+    },
+    {
+      "id": "les06-q09",
+      "topic": "De gemeente",
+      "question": "Je wil een koelkast weggooien. Wat moet je doen?",
+      "options": [
+        "De koelkast naar de chemokar brengen",
+        "De koelkast naast de container op straat zetten",
+        "Het afvaldepot bellen om een afspraak te maken"
+      ],
+      "correctIndex": 2,
+      "explanation": "Voor grof huisvuil zoals een koelkast maak je een afspraak met het afvaldepot/grofvuil-ophaaldienst."
+    },
+    {
+      "id": "les06-q10",
+      "topic": "De gemeente",
+      "question": "Waar moet je schillen weggooien?",
+      "options": [
+        "In de gft-container",
+        "In de papiercontainer",
+        "Bij het restafval"
+      ],
+      "correctIndex": 0,
+      "explanation": "Groente-, fruit- en tuinafval (gft) gaat in de aparte gft-container."
+    },
+    {
+      "id": "les06-q11",
+      "topic": "De gemeente",
+      "question": "Waarvoor heb je geen vergunning van de gemeente nodig?",
+      "options": [
+        "Een nieuwe dakkapel",
+        "Een nieuw bad in de badkamer",
+        "Een nieuwe schuur in de tuin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor verbouwingen binnenshuis (zoals een nieuw bad) heb je geen vergunning nodig."
+    },
+    {
+      "id": "les06-q12",
+      "topic": "De gemeente",
+      "question": "Waar kan je een bekendmaking van een vergunning lezen?",
+      "options": [
+        "In de bibliotheek",
+        "In de krant",
+        "In het huis-aan-huisblad"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vergunningen worden bekendgemaakt in het huis-aan-huisblad (gratis lokaal weekblad)."
+    },
+    {
+      "id": "les06-q13",
+      "topic": "De gemeente",
+      "question": "Wat kan je doen als je wil protesteren tegen een vergunning?",
+      "options": [
+        "Een bezwaarschrift aan de gemeente sturen",
+        "Een brief aan de burgemeester schrijven",
+        "Een protestactie organiseren"
+      ],
+      "correctIndex": 0,
+      "explanation": "Officieel protest tegen een vergunning gaat via een bezwaarschrift aan de gemeente."
+    },
+    {
+      "id": "les07-q01",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Hoe lang duurde de Tweede Wereldoorlog in Nederland?",
+      "options": [
+        "4 jaar",
+        "5 jaar",
+        "80 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "De oorlog in Nederland duurde van mei 1940 tot mei 1945 — 5 jaar."
+    },
+    {
+      "id": "les07-q02",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Welk land was tijdens de Tweede Wereldoorlog de baas in Nederland?",
+      "options": [
+        "Amerika",
+        "Duitsland",
+        "Engeland"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nederland was bezet door nazi-Duitsland van 1940 tot 1945."
+    },
+    {
+      "id": "les07-q03",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Welke stad werd aan het begin van de Tweede Wereldoorlog gebombardeerd?",
+      "options": [
+        "Amsterdam",
+        "Den Haag",
+        "Rotterdam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rotterdam werd op 14 mei 1940 zwaar gebombardeerd door Duitsland."
+    },
+    {
+      "id": "les07-q04",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Waar waren de koningin en de regering tijdens de Tweede Wereldoorlog?",
+      "options": [
+        "In Amsterdam",
+        "In Londen",
+        "In New York"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koningin Wilhelmina en de regering vluchtten naar Londen."
+    },
+    {
+      "id": "les07-q05",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Welke groep landen werkt samen in een oorlog?",
+      "options": [
+        "De EU",
+        "De NAVO",
+        "De VS"
+      ],
+      "correctIndex": 1,
+      "explanation": "De NAVO is een militair bondgenootschap van landen die elkaar in oorlog helpen."
+    },
+    {
+      "id": "les07-q06",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Wat betekent 'onderduiken'?",
+      "options": [
+        "In het geheim vechten",
+        "Vechten in een onderzeeboot",
+        "Je verstoppen op een geheime plaats"
+      ],
+      "correctIndex": 2,
+      "explanation": "Onderduiken betekent je verbergen op een geheime plek, zoals Joden tijdens de oorlog deden."
+    },
+    {
+      "id": "les07-q07",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Waarom heet het dagboek van Anne Frank 'Het Achterhuis'?",
+      "options": [
+        "Daar woonde Anne Frank in het geheim in de oorlog",
+        "Het was de achternaam van Anne Frank",
+        "Zo heet het concentratiekamp waar Anne Frank overleden is"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anne Frank en haar familie zaten ondergedoken in het Achterhuis aan de Prinsengracht in Amsterdam."
+    },
+    {
+      "id": "les07-q08",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Wat is 'het verzet'?",
+      "options": [
+        "De naam van een concentratiekamp",
+        "De naam van een museum in Amsterdam",
+        "De naam voor mensen die in het geheim vochten tegen de Duitsers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het verzet was de groep mensen die in het geheim tegen de Duitse bezetter vocht."
+    },
+    {
+      "id": "les07-q09",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Op welke dag viert Nederland Bevrijdingsdag?",
+      "options": [
+        "27 april",
+        "4 mei",
+        "5 mei"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bevrijdingsdag is 5 mei. Op 4 mei is Dodenherdenking."
+    },
+    {
+      "id": "les07-q10",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Waar is de koning tijdens dodenherdenking?",
+      "options": [
+        "In Amsterdam",
+        "In Den Haag",
+        "In Rotterdam"
+      ],
+      "correctIndex": 0,
+      "explanation": "De koning legt op 4 mei een krans op de Dam in Amsterdam."
+    },
+    {
+      "id": "les07-q11",
+      "topic": "De Tweede Wereldoorlog",
+      "question": "Hoe lang zijn de mensen tijdens dodenherdenking stil?",
+      "options": [
+        "2 minuten",
+        "2 uur",
+        "8 uur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Op 4 mei om 20:00 uur is er 2 minuten stilte voor de slachtoffers van oorlogen."
+    },
+    {
+      "id": "les08-q01",
+      "topic": "Oranje",
+      "question": "Welke religie had Willem van Oranje?",
+      "options": [
+        "Geen religie",
+        "Katholiek",
+        "Protestant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Willem van Oranje werd protestant en leidde de opstand tegen het katholieke Spanje."
+    },
+    {
+      "id": "les08-q02",
+      "topic": "Oranje",
+      "question": "Welk land was de baas in Nederland in de tijd van Willem van Oranje?",
+      "options": [
+        "Duitsland",
+        "Frankrijk",
+        "Spanje"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spanje regeerde over de Lage Landen in de 16e eeuw."
+    },
+    {
+      "id": "les08-q03",
+      "topic": "Oranje",
+      "question": "Wat is 'Het Wilhelmus'?",
+      "options": [
+        "Een gebouw in Den Haag",
+        "Een schilderij van Rembrandt",
+        "Het volkslied van Nederland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het Wilhelmus is het Nederlandse volkslied, over Willem van Oranje."
+    },
+    {
+      "id": "les08-q04",
+      "topic": "Oranje",
+      "question": "Wat staat niet in de grondwet?",
+      "options": [
+        "Discriminatie is verboden",
+        "Er is vrijheid van meningsuiting",
+        "Islamitische scholen zijn verboden"
+      ],
+      "correctIndex": 2,
+      "explanation": "De vrijheid van onderwijs is grondwettelijk; islamitische scholen zijn juist toegestaan."
+    },
+    {
+      "id": "les08-q05",
+      "topic": "Oranje",
+      "question": "Wat is in Nederland het belangrijkst?",
+      "options": [
+        "De rechter",
+        "De religie",
+        "De wet"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Nederland staat de wet boven religie; de rechter past de wet toe."
+    },
+    {
+      "id": "les08-q06",
+      "topic": "Oranje",
+      "question": "Wanneer was de Gouden Eeuw in Nederland?",
+      "options": [
+        "15e eeuw",
+        "17e eeuw",
+        "20e eeuw"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Gouden Eeuw was in de 17e eeuw — bloei van handel, kunst en wetenschap."
+    },
+    {
+      "id": "les08-q07",
+      "topic": "Oranje",
+      "question": "Welk land was vroeger geen kolonie van Nederland?",
+      "options": [
+        "België",
+        "Indonesië",
+        "Suriname"
+      ],
+      "correctIndex": 0,
+      "explanation": "België was nooit een Nederlandse kolonie. Indonesië en Suriname wel."
+    },
+    {
+      "id": "les08-q08",
+      "topic": "Oranje",
+      "question": "Voor welke mensen is het feest Ketikoti?",
+      "options": [
+        "De verjaardag van koningin Máxima",
+        "Het einde van de oorlog in Indonesië",
+        "Het einde van de slavernij in Suriname"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ketikoti (1 juli) viert het einde van de slavernij in Suriname en de Antillen (1863)."
+    },
+    {
+      "id": "les08-q09",
+      "topic": "Oranje",
+      "question": "Hoe heet de derde dinsdag in september?",
+      "options": [
+        "Dodenherdenking",
+        "Koningsdag",
+        "Prinsjesdag"
+      ],
+      "correctIndex": 2,
+      "explanation": "Op Prinsjesdag (3e dinsdag van september) leest de koning de troonrede voor."
+    },
+    {
+      "id": "les08-q10",
+      "topic": "Oranje",
+      "question": "Wat is de troonrede?",
+      "options": [
+        "De kersttoespraak van de koning",
+        "De plannen van de regering",
+        "Een belangrijke wet van Nederland"
+      ],
+      "correctIndex": 1,
+      "explanation": "In de troonrede leest de koning de plannen van de regering voor het komende jaar voor."
+    },
+    {
+      "id": "les08-q11",
+      "topic": "Oranje",
+      "question": "Wie schrijft de kersttoespraak van de koning?",
+      "options": [
+        "De commissaris van de Koning",
+        "De koning zelf",
+        "De minister-president"
+      ],
+      "correctIndex": 1,
+      "explanation": "De kersttoespraak schrijft de koning zelf — anders dan de troonrede die de regering schrijft."
+    },
+    {
+      "id": "les08-q12",
+      "topic": "Oranje",
+      "question": "Waar rijdt de Glazen Koets heen?",
+      "options": [
+        "Naar Paleis Noordeinde",
+        "Naar de Ridderzaal",
+        "Naar het Rijksmuseum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Op Prinsjesdag rijdt de koning in de Glazen Koets naar de Ridderzaal in Den Haag."
+    },
+    {
+      "id": "les09-q01",
+      "topic": "De wet",
+      "question": "Wie bepaalt in Nederland de straf voor een misdrijf of overtreding?",
+      "options": [
+        "De jury",
+        "De politie",
+        "De rechter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederland heeft geen jurysysteem — de rechter bepaalt de straf."
+    },
+    {
+      "id": "les09-q02",
+      "topic": "De wet",
+      "question": "Welke straf wordt meestal gegeven voor een overtreding?",
+      "options": [
+        "De doodstraf",
+        "Een boete",
+        "Een gevangenisstraf"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor een overtreding (lichte wetsovertreding) krijg je meestal een boete."
+    },
+    {
+      "id": "les09-q03",
+      "topic": "De wet",
+      "question": "Wat is fraude?",
+      "options": [
+        "Een misdrijf met officiële documenten",
+        "Iets wat niet mag van de wet, maar minder erg is dan een overtreding",
+        "Seks met iemand die niet wil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fraude is bedrog met documenten of geld, bijvoorbeeld bij belastingen of verzekeringen."
+    },
+    {
+      "id": "les09-q04",
+      "topic": "De wet",
+      "question": "Wie helpt je als je voor de rechter moet komen?",
+      "options": [
+        "Een advocaat",
+        "Een notaris",
+        "Het Juridisch Loket"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een advocaat verdedigt je in de rechtszaal."
+    },
+    {
+      "id": "les09-q05",
+      "topic": "De wet",
+      "question": "2 mensen trouwen, maar ze willen hun eigen spullen houden. Welk document hebben ze nodig?",
+      "options": [
+        "Een akte van huwelijkse voorwaarden",
+        "Een huwelijksakte",
+        "Niets. Mensen die trouwen houden automatisch hun eigen spullen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Met huwelijkse voorwaarden bij de notaris regel je dat je eigen bezit gescheiden blijft."
+    },
+    {
+      "id": "les09-q06",
+      "topic": "De wet",
+      "question": "Naar wie moet je altijd toe als je een huis koopt?",
+      "options": [
+        "De huisbaas",
+        "De notaris",
+        "De makelaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "De notaris regelt officieel de koop en de overdracht van een huis."
+    },
+    {
+      "id": "les09-q07",
+      "topic": "De wet",
+      "question": "Wie schrijft officiële documenten?",
+      "options": [
+        "De advocaat",
+        "De notaris",
+        "Het Juridisch Loket"
+      ],
+      "correctIndex": 1,
+      "explanation": "Notariële akten (huwelijk, koop, testament) schrijft de notaris."
+    },
+    {
+      "id": "les10-q01",
+      "topic": "Wonen",
+      "question": "Wanneer was de wederopbouw?",
+      "options": [
+        "1940-1945",
+        "1945-1965",
+        "1965-1985"
+      ],
+      "correctIndex": 1,
+      "explanation": "De wederopbouw was de periode na de oorlog, ongeveer 1945-1965."
+    },
+    {
+      "id": "les10-q02",
+      "topic": "Wonen",
+      "question": "Wat was groot probleem na de Tweede Wereldoorlog?",
+      "options": [
+        "Immigratie",
+        "Werkloosheid",
+        "Woningnood"
+      ],
+      "correctIndex": 2,
+      "explanation": "Na de oorlog waren er te weinig huizen — woningnood was het grootste probleem."
+    },
+    {
+      "id": "les10-q03",
+      "topic": "Wonen",
+      "question": "Naar welke landen emigreerden veel Nederlanders in de jaren 50?",
+      "options": [
+        "Amerika en Canada",
+        "Australië en Canada",
+        "Indonesië en Suriname"
+      ],
+      "correctIndex": 1,
+      "explanation": "Door woningnood en armoede vertrokken veel Nederlanders naar Australië en Canada."
+    },
+    {
+      "id": "les10-q04",
+      "topic": "Wonen",
+      "question": "Waar kan je je inschrijven voor een huurwoning?",
+      "options": [
+        "Bij de gemeente of een particuliere verhuurder",
+        "Bij de gemeente of een woningbouwvereniging",
+        "Bij een particuliere verhuurder of een woningbouwvereniging"
+      ],
+      "correctIndex": 2,
+      "explanation": "De gemeente verhuurt zelf geen huizen — wel de woningbouwvereniging of particuliere verhuurders."
+    },
+    {
+      "id": "les10-q05",
+      "topic": "Wonen",
+      "question": "Hoe kan je reageren op een woningadvertentie in de woonkrant?",
+      "options": [
+        "Je kan opbellen of online reageren",
+        "Je kan de woonbon opsturen of online reageren",
+        "Je kan de woonbon opsturen of naar de woningbouwvereniging gaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reageren gaat met een woonbon (per post) of online via de website."
+    },
+    {
+      "id": "les10-q06",
+      "topic": "Wonen",
+      "question": "Naar wie moet je altijd toe als je een huis koopt?",
+      "options": [
+        "Een advocaat",
+        "Een makelaar",
+        "Een notaris"
+      ],
+      "correctIndex": 2,
+      "explanation": "Voor de officiële koop van een huis ga je altijd naar de notaris."
+    },
+    {
+      "id": "les10-q07",
+      "topic": "Wonen",
+      "question": "Hoe lang duurt een hypotheek meestal?",
+      "options": [
+        "1 jaar",
+        "5 jaar",
+        "20 tot 30 jaar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Een hypotheek loopt meestal 20 tot 30 jaar."
+    },
+    {
+      "id": "les10-q08",
+      "topic": "Wonen",
+      "question": "Waar kan je zien van wie een huis is?",
+      "options": [
+        "Bij de GBA (gemeentelijke basisadministratie)",
+        "Bij de Kamer van Koophandel",
+        "Bij het kadaster"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het kadaster registreert wie eigenaar is van welk stuk grond of huis."
+    },
+    {
+      "id": "les10-q09",
+      "topic": "Wonen",
+      "question": "Wie sluit het contract met het energiebedrijf af?",
+      "options": [
+        "De bewoner",
+        "De gemeente",
+        "De woningstichting"
+      ],
+      "correctIndex": 0,
+      "explanation": "De bewoner sluit zelf een contract met het energiebedrijf voor gas en elektra."
+    },
+    {
+      "id": "les10-q10",
+      "topic": "Wonen",
+      "question": "Bij een variabel energiecontract zijn de prijzen soms hoger dan bij een vast contract. Waar of niet waar?",
+      "options": [
+        "Waar, maar de prijzen veranderen steeds en zijn soms ook lager",
+        "Waar, maar een variabel contract geeft meer zekerheid",
+        "Niet waar, de prijzen zijn altijd lager dan bij een vast contract"
+      ],
+      "correctIndex": 0,
+      "explanation": "Variabele prijzen veranderen mee met de markt — soms hoger, soms lager dan vast."
+    },
+    {
+      "id": "les10-q11",
+      "topic": "Wonen",
+      "question": "Wat krijg je niet via de kabel?",
+      "options": [
+        "Gas",
+        "Internet",
+        "Televisie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gas komt via de gasleiding, niet via de kabel. Internet en tv wel."
+    },
+    {
+      "id": "les11-q01",
+      "topic": "Na de wederopbouw",
+      "question": "Wat werd minder belangrijk na de wederopbouw?",
+      "options": [
+        "Gelijkheid",
+        "Religie",
+        "Vrijheid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na de wederopbouw kwam de ontkerkelijking op gang — religie werd minder belangrijk."
+    },
+    {
+      "id": "les11-q02",
+      "topic": "Na de wederopbouw",
+      "question": "Wat betekent emancipatie?",
+      "options": [
+        "Iedereen krijgt gelijke kansen",
+        "Iedereen mag zeggen wat hij of zij denkt",
+        "Mannen zijn belangrijker dan vrouwen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Emancipatie betekent gelijke rechten en kansen voor iedereen."
+    },
+    {
+      "id": "les11-q03",
+      "topic": "Na de wederopbouw",
+      "question": "Wie organiseert soms feestjes in een bedrijf?",
+      "options": [
+        "De personeelsvereniging",
+        "De ondernemingsraad",
+        "De vakbond"
+      ],
+      "correctIndex": 0,
+      "explanation": "De personeelsvereniging regelt sociale activiteiten zoals feestjes."
+    },
+    {
+      "id": "les11-q05",
+      "topic": "Na de wederopbouw",
+      "question": "Wanneer kwamen er veel gastarbeiders naar Nederland?",
+      "options": [
+        "Na 1985",
+        "Na de Tweede Wereldoorlog",
+        "Na de wederopbouw"
+      ],
+      "correctIndex": 2,
+      "explanation": "In de jaren 60 en 70 — na de wederopbouw — kwamen veel gastarbeiders naar Nederland."
+    },
+    {
+      "id": "les11-q06",
+      "topic": "Na de wederopbouw",
+      "question": "Uit welke landen kwamen veel gastarbeiders?",
+      "options": [
+        "Australië en Canada",
+        "Duitsland en Polen",
+        "Marokko en Turkije"
+      ],
+      "correctIndex": 2,
+      "explanation": "Veel gastarbeiders kwamen uit Marokko en Turkije om in fabrieken te werken."
+    },
+    {
+      "id": "les11-q07",
+      "topic": "Na de wederopbouw",
+      "question": "Wat zijn achterstandswijken?",
+      "options": [
+        "Wijken met veel criminaliteit, vandalisme en overlast",
+        "Wijken met te weinig huizen",
+        "Wijken met slechte scholen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Achterstandswijken kampen met problemen als criminaliteit, slechte huizen en overlast."
+    },
+    {
+      "id": "les11-q08",
+      "topic": "Na de wederopbouw",
+      "question": "Wat doet de overheid om achterstandswijken te helpen?",
+      "options": [
+        "De uitkeringen verhogen",
+        "Huizen repareren en vernieuwen",
+        "Slechte scholen sluiten"
+      ],
+      "correctIndex": 1,
+      "explanation": "De overheid investeert in renovatie en vernieuwing van wijken om ze beter te maken."
+    },
+    {
+      "id": "les11-q09",
+      "topic": "Na de wederopbouw",
+      "question": "Waarom zijn er na 2010 veel oudere mensen in Nederland?",
+      "options": [
+        "De mensen worden ouder omdat ze eerder stoppen met werken",
+        "De mensen worden ouder omdat ze gezond leven",
+        "Kort na de Tweede Wereldoorlog zijn er veel baby's geboren"
+      ],
+      "correctIndex": 2,
+      "explanation": "De babyboomgeneratie (geboren rond 1946-1955) bereikt nu de pensioenleeftijd — vergrijzing."
+    },
+    {
+      "id": "les11-q10",
+      "topic": "Na de wederopbouw",
+      "question": "Welk probleem is er door de vergrijzing?",
+      "options": [
+        "Er is niet genoeg geld voor de AOW",
+        "Er worden te weinig kinderen geboren",
+        "Er zijn te weinig ziekenhuizen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Door vergrijzing zijn er meer AOW-ontvangers en minder werkenden om het te betalen."
+    },
+    {
+      "id": "les11-q11",
+      "topic": "Na de wederopbouw",
+      "question": "Krijgt een immigrant ook AOW?",
+      "options": [
+        "Ja",
+        "Ja, maar misschien niet 100%",
+        "Nee"
+      ],
+      "correctIndex": 1,
+      "explanation": "AOW bouw je op per jaar dat je in Nederland woont — wie hier later komt krijgt minder dan 100%."
+    },
+    {
+      "id": "les12-q01",
+      "topic": "Ziek",
+      "question": "Welk briefje heb je nodig voor de specialist?",
+      "options": [
+        "Een etiket",
+        "Een recept",
+        "Een verwijsbrief"
+      ],
+      "correctIndex": 2,
+      "explanation": "Voor een specialist in het ziekenhuis heb je een verwijsbrief van de huisarts nodig."
+    },
+    {
+      "id": "les12-q02",
+      "topic": "Ziek",
+      "question": "Je hebt 's nachts een huisarts nodig. Wat doe je?",
+      "options": [
+        "Je belt naar de huisartsenpost",
+        "Je belt naar het ziekenhuis",
+        "Je gaat naar de spoedeisende hulp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Buiten kantoortijden bel je de huisartsenpost (HAP) — niet meteen het ziekenhuis."
+    },
+    {
+      "id": "les12-q03",
+      "topic": "Ziek",
+      "question": "Hoe heet de verzekering voor medicijnen, de huisarts en het ziekenhuis?",
+      "options": [
+        "De ziektekostenverzekering",
+        "De zorgtoeslag",
+        "De zorgverzekering"
+      ],
+      "correctIndex": 2,
+      "explanation": "De zorgverzekering is verplicht voor iedereen in Nederland en betaalt zorgkosten."
+    },
+    {
+      "id": "les12-q04",
+      "topic": "Ziek",
+      "question": "Hoe heet de afdeling in het ziekenhuis waar je niet blijft slapen?",
+      "options": [
+        "De Eerste Hulp",
+        "De opname",
+        "De polikliniek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Op de polikliniek heb je een afspraak met een specialist en ga je daarna weer naar huis."
+    },
+    {
+      "id": "les12-q05",
+      "topic": "Ziek",
+      "question": "Wat zijn 'zelfzorgmiddelen'?",
+      "options": [
+        "Dieetproducten",
+        "Medicijnen zonder recept die de verzekering betaalt",
+        "Medicijnen zonder recept die de verzekering niet betaalt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zelfzorgmiddelen zijn medicijnen zonder recept (bv. paracetamol) die je zelf betaalt."
+    },
+    {
+      "id": "les12-q06",
+      "topic": "Ziek",
+      "question": "Wie betaalt het eigen risico?",
+      "options": [
+        "De huisarts",
+        "De patiënt",
+        "De verzekering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het eigen risico betaal je zelf voordat de zorgverzekering de rest vergoedt."
+    },
+    {
+      "id": "les12-q07",
+      "topic": "Ziek",
+      "question": "Voor wie is het aanvullende pakket gratis?",
+      "options": [
+        "Voor kinderen tot 12 jaar",
+        "Voor kinderen tot 18 jaar",
+        "Voor niemand"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het aanvullende pakket (extra verzekering) is voor niemand gratis. De basisverzekering is wel gratis voor kinderen onder 18."
+    },
+    {
+      "id": "les12-q08",
+      "topic": "Ziek",
+      "question": "Wat helpt tegen aids?",
+      "options": [
+        "Het condoom",
+        "De pil",
+        "Het spiraaltje"
+      ],
+      "correctIndex": 0,
+      "explanation": "Het condoom beschermt tegen seksueel overdraagbare ziekten zoals hiv/aids. De pil en spiraaltje zijn alleen voor anticonceptie."
+    },
+    {
+      "id": "les12-q09",
+      "topic": "Ziek",
+      "question": "Vanaf welke leeftijd kunnen meisjes de pil krijgen?",
+      "options": [
+        "Vanaf 14 jaar",
+        "Vanaf 18 jaar",
+        "Er is geen leeftijd voor. De huisarts zegt ja of nee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Er is geen vaste leeftijdsgrens; de huisarts beoordeelt per geval of een meisje de pil kan krijgen."
+    },
+    {
+      "id": "les12-q10",
+      "topic": "Ziek",
+      "question": "Wat is geen soa?",
+      "options": [
+        "Aids",
+        "Griep",
+        "Hepatitis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Griep is een ademhalingsziekte, geen seksueel overdraagbare aandoening."
+    },
+    {
+      "id": "les12-q11",
+      "topic": "Ziek",
+      "question": "Wat kan je niet doen bij de GGD?",
+      "options": [
+        "Een abortus laten doen",
+        "Een soa-test laten doen",
+        "Een vaccinatie halen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een abortus laat je doen in een abortuskliniek of ziekenhuis, niet bij de GGD."
+    },
+    {
+      "id": "les12-q12",
+      "topic": "Ziek",
+      "question": "Wanneer is abortus verboden?",
+      "options": [
+        "Abortus is altijd verboden",
+        "Als de baby ouder is dan 24 weken",
+        "Als de vrouw moslim is"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abortus mag tot 24 weken zwangerschap; daarna alleen om medische redenen."
+    },
+    {
+      "id": "les12-q13",
+      "topic": "Ziek",
+      "question": "Waar krijgen baby's vaccinaties?",
+      "options": [
+        "Bij de GGD",
+        "Bij de huisarts",
+        "Bij het consultatiebureau"
+      ],
+      "correctIndex": 2,
+      "explanation": "Baby's krijgen hun vaccinaties op het consultatiebureau (jeugdgezondheidszorg)."
+    },
+    {
+      "id": "les12-q14",
+      "topic": "Ziek",
+      "question": "Wie controleert de baby tijdens de zwangerschap?",
+      "options": [
+        "De gynaecoloog",
+        "De kraamhulp",
+        "De verloskundige"
+      ],
+      "correctIndex": 2,
+      "explanation": "De verloskundige begeleidt de zwangerschap en de bevalling. De gynaecoloog komt erbij bij problemen."
+    },
+    {
+      "id": "les12-q15",
+      "topic": "Ziek",
+      "question": "Waar moet je kraamhulp aanvragen?",
+      "options": [
+        "Bij de gemeente",
+        "Bij de huisarts",
+        "Bij de thuiszorg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kraamhulp regel je via de thuiszorg (kraamzorgorganisatie)."
+    },
+    {
+      "id": "les12-q16",
+      "topic": "Ziek",
+      "question": "Wie zegt dat thuiszorg nodig is?",
+      "options": [
+        "De huisarts",
+        "De specialist",
+        "Het CIZ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het CIZ (Centrum Indicatiestelling Zorg) bepaalt of je recht hebt op (langdurige) zorg."
+    },
+    {
+      "id": "les13-q01",
+      "topic": "Geld",
+      "question": "Wat betaal je meestal niet met contant geld?",
+      "options": [
+        "De boodschappen",
+        "De huur",
+        "Een ijsje"
+      ],
+      "correctIndex": 1,
+      "explanation": "De huur betaal je vrijwel altijd via een bankoverschrijving, niet contant."
+    },
+    {
+      "id": "les13-q02",
+      "topic": "Geld",
+      "question": "Wanneer gebruiken mensen meestal geen creditcard?",
+      "options": [
+        "Om iets te kopen op het internet",
+        "Om te betalen in een hotel",
+        "Om boodschappen te betalen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boodschappen betalen Nederlanders vrijwel altijd met de pinpas, niet met creditcard."
+    },
+    {
+      "id": "les13-q03",
+      "topic": "Geld",
+      "question": "Op welke manier kan je geen geld overschrijven?",
+      "options": [
+        "Met een factuur",
+        "Met een machtiging",
+        "Via internetbankieren"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een factuur is een rekening die je moet betalen — het is geen manier van overschrijven."
+    },
+    {
+      "id": "les13-q04",
+      "topic": "Geld",
+      "question": "Hoe kan je rekeningen automatisch betalen?",
+      "options": [
+        "Met een machtiging",
+        "Met een OV-chipkaart",
+        "Met iDeal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Met een (automatische) machtiging mag een bedrijf het bedrag zelf van je rekening afhalen."
+    },
+    {
+      "id": "les13-q05",
+      "topic": "Geld",
+      "question": "Wat kan je niet automatisch betalen?",
+      "options": [
+        "De boodschappen",
+        "De energierekening",
+        "De huur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boodschappen reken je per keer af. Vaste rekeningen zoals huur en energie kunnen wel automatisch."
+    },
+    {
+      "id": "les13-q06",
+      "topic": "Geld",
+      "question": "Hoe heet het geld dat op je bankrekening staat?",
+      "options": [
+        "Bedrag",
+        "Rente",
+        "Saldo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het saldo is het bedrag dat op dit moment op je bankrekening staat."
+    },
+    {
+      "id": "les13-q07",
+      "topic": "Geld",
+      "question": "Waarmee kan je niet internetbankieren?",
+      "options": [
+        "Met je telefoon",
+        "Met een geldautomaat",
+        "Met een tablet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een geldautomaat (pinautomaat) is geen apparaat voor internetbankieren."
+    },
+    {
+      "id": "les13-q08",
+      "topic": "Geld",
+      "question": "Wat is belangrijk voor internetbankieren?",
+      "options": [
+        "Dat je computer snel is",
+        "Dat je computer een wachtwoord heeft",
+        "Dat je computer veilig is"
+      ],
+      "correctIndex": 2,
+      "explanation": "Voor internetbankieren is veiligheid (virusvrij, beveiligd) het belangrijkst."
+    },
+    {
+      "id": "les13-q09",
+      "topic": "Geld",
+      "question": "Waarvoor gebruik je bijvoorbeeld een lening?",
+      "options": [
+        "Voor een auto",
+        "Voor een boek",
+        "Voor een ijsje"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een lening neem je voor grote uitgaven zoals een auto of een huis (hypotheek)."
+    },
+    {
+      "id": "les13-q10",
+      "topic": "Geld",
+      "question": "In hoeveel jaar betaal je een hypotheek meestal terug?",
+      "options": [
+        "0-5 jaar",
+        "5-10 jaar",
+        "20-30 jaar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Een hypotheek loopt meestal 20 tot 30 jaar."
+    },
+    {
+      "id": "les13-q11",
+      "topic": "Geld",
+      "question": "Wat betaal je als je geld leent van de bank?",
+      "options": [
+        "Boete",
+        "Rente",
+        "Saldo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor geleend geld betaal je rente aan de bank."
+    },
+    {
+      "id": "les13-q12",
+      "topic": "Geld",
+      "question": "Wat moet je doen als je geld leent van de bank?",
+      "options": [
+        "De lening afschrijven",
+        "De lening aflossen",
+        "De lening oplossen"
+      ],
+      "correctIndex": 1,
+      "explanation": "De lening aflossen betekent het geleende bedrag stap voor stap terugbetalen."
+    },
+    {
+      "id": "les13-q13",
+      "topic": "Geld",
+      "question": "Wat krijg je als je geld spaart bij de bank?",
+      "options": [
+        "Boete",
+        "Rente",
+        "Saldo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Op een spaarrekening krijg je rente over het geld dat je spaart."
+    },
+    {
+      "id": "les14-q01",
+      "topic": "School",
+      "question": "Vanaf welke leeftijd mogen kinderen naar de basisschool?",
+      "options": [
+        "4 jaar",
+        "5 jaar",
+        "6 jaar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kinderen mogen vanaf hun 4e verjaardag naar de basisschool."
+    },
+    {
+      "id": "les14-q02",
+      "topic": "School",
+      "question": "Vanaf welke leeftijd is er leerplicht in Nederland?",
+      "options": [
+        "4 jaar",
+        "5 jaar",
+        "6 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "De leerplicht begint op 5 jaar (mogen mag al vanaf 4)."
+    },
+    {
+      "id": "les14-q03",
+      "topic": "School",
+      "question": "Wat krijgen kinderen niet op school?",
+      "options": [
+        "Ouderbijdrage",
+        "Seksuele voorlichting",
+        "Vakantie"
+      ],
+      "correctIndex": 0,
+      "explanation": "De ouderbijdrage is wat ouders aan school betalen — geen iets wat kinderen krijgen."
+    },
+    {
+      "id": "les14-q04",
+      "topic": "School",
+      "question": "Is de basisschool gratis?",
+      "options": [
+        "Ja",
+        "Ja, maar de school kan ouders vragen om een vrijwillige ouderbijdrage",
+        "Nee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het onderwijs is gratis, maar scholen vragen vaak een vrijwillige ouderbijdrage voor extra activiteiten."
+    },
+    {
+      "id": "les14-q05",
+      "topic": "School",
+      "question": "Wat wordt bijvoorbeeld betaald met de vrijwillige ouderbijdrage?",
+      "options": [
+        "De boeken op school",
+        "De energierekening van de school",
+        "Schoolreisjes"
+      ],
+      "correctIndex": 2,
+      "explanation": "De vrijwillige ouderbijdrage betaalt extra activiteiten zoals schoolreisjes en feestjes."
+    },
+    {
+      "id": "les14-q06",
+      "topic": "School",
+      "question": "Wanneer praten ouders met een docent over hun kind?",
+      "options": [
+        "Op de ouderavond",
+        "Op het schoolfeest",
+        "Tijdens het 10 minuten-gesprek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bij het 10-minutengesprek praten ouders één-op-één met de docent over hun kind."
+    },
+    {
+      "id": "les14-q07",
+      "topic": "School",
+      "question": "Wat betekenen de cijfers op het rapport?",
+      "options": [
+        "1 is heel goed",
+        "10 is heel goed",
+        "Dat hangt af van de school"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Nederland is 10 het hoogste cijfer en 1 het laagste."
+    },
+    {
+      "id": "les14-q08",
+      "topic": "School",
+      "question": "Op welke school leer je een beroep?",
+      "options": [
+        "Havo",
+        "Vmbo",
+        "Vwo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het vmbo (en daarna mbo) is gericht op een beroep. Havo en vwo zijn algemeen vormend."
+    },
+    {
+      "id": "les14-q09",
+      "topic": "School",
+      "question": "Na welke school kan je naar de universiteit?",
+      "options": [
+        "Na de havo",
+        "Na het vmbo",
+        "Na het vwo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Met een vwo-diploma kun je direct naar de universiteit. Havo geeft toegang tot het hbo."
+    },
+    {
+      "id": "les14-q10",
+      "topic": "School",
+      "question": "Hoe oud moet je zijn voor studiefinanciering?",
+      "options": [
+        "5 jaar",
+        "12 jaar",
+        "18 jaar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Studiefinanciering kun je vanaf je 18e aanvragen bij DUO."
+    },
+    {
+      "id": "les14-q11",
+      "topic": "School",
+      "question": "Welk deel van de studiefinanciering is voor iedere student?",
+      "options": [
+        "De aanvullende beurs",
+        "De aanvullende lening",
+        "De basisbeurs"
+      ],
+      "correctIndex": 2,
+      "explanation": "De basisbeurs is voor elke student. De aanvullende beurs hangt af van het inkomen van ouders."
+    },
+    {
+      "id": "les15-q01",
+      "topic": "Werk",
+      "question": "Hoe verdient een ondernemer geld?",
+      "options": [
+        "Met een baan",
+        "Met een eigen bedrijf",
+        "Met een uitkering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een ondernemer heeft een eigen bedrijf en verdient geld door zelf te werken/verkopen."
+    },
+    {
+      "id": "les15-q02",
+      "topic": "Werk",
+      "question": "Wie moet zich inschrijven bij de Kamer van Koophandel?",
+      "options": [
+        "Een ondernemer",
+        "Een vrijwilliger",
+        "Een werknemer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Elke ondernemer moet zijn bedrijf registreren bij de Kamer van Koophandel (KvK)."
+    },
+    {
+      "id": "les15-q03",
+      "topic": "Werk",
+      "question": "Wat is vrijwilligerswerk?",
+      "options": [
+        "Werken in een eigen bedrijf",
+        "Werken voor een uitzendbureau",
+        "Werken zonder salaris"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vrijwilligerswerk is werk waar je niet voor betaald wordt."
+    },
+    {
+      "id": "les15-q04",
+      "topic": "Werk",
+      "question": "Welke uitkering krijg je als je ontslag krijgt?",
+      "options": [
+        "AOW",
+        "Bijstand",
+        "WW"
+      ],
+      "correctIndex": 2,
+      "explanation": "Na ontslag heb je recht op een WW-uitkering (als je voldoende gewerkt hebt)."
+    },
+    {
+      "id": "les15-q05",
+      "topic": "Werk",
+      "question": "Waar moet je een uitkering aanvragen als je werkloos wordt?",
+      "options": [
+        "Bij de gemeente",
+        "Bij de Sociale Zaken",
+        "Bij het UWV WERKbedrijf"
+      ],
+      "correctIndex": 2,
+      "explanation": "Een WW-uitkering vraag je aan bij het UWV. Bijstand vraag je aan bij de gemeente."
+    },
+    {
+      "id": "les15-q06",
+      "topic": "Werk",
+      "question": "Moeten alleenstaande ouders met kinderen en een bijstandsuitkering solliciteren?",
+      "options": [
+        "Ja",
+        "Nee",
+        "Nee, als de kinderen jonger zijn dan 5 jaar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alleenstaande ouders met kinderen onder de 5 jaar zijn vrijgesteld van de sollicitatieplicht."
+    },
+    {
+      "id": "les15-q07",
+      "topic": "Werk",
+      "question": "Wat heet een advertentie voor werk?",
+      "options": [
+        "Een baan",
+        "Een factuur",
+        "Een vacature"
+      ],
+      "correctIndex": 2,
+      "explanation": "Een vacature is een advertentie voor een open functie/baan."
+    },
+    {
+      "id": "les15-q08",
+      "topic": "Werk",
+      "question": "Wie betaalt het salaris als je voor een uitzendbureau werkt?",
+      "options": [
+        "De werkgever",
+        "Het uitzendbureau",
+        "Het UWV WERKbedrijf"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bij uitzendwerk is het uitzendbureau formeel je werkgever en betaalt het salaris."
+    },
+    {
+      "id": "les15-q09",
+      "topic": "Werk",
+      "question": "Wat is een cv?",
+      "options": [
+        "Een collectieve verzekering",
+        "Een overzicht van je persoonlijke gegevens, opleiding en werkervaring",
+        "Een uitkering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een cv (curriculum vitae) is een overzicht van je opleiding en werkervaring voor sollicitaties."
+    },
+    {
+      "id": "les15-q10",
+      "topic": "Werk",
+      "question": "Wat is niet belangrijk als je werk zoekt?",
+      "options": [
+        "De Nederlandse taal",
+        "Hoeveel kinderen je hebt",
+        "Je motivatie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hoeveel kinderen je hebt mag een werkgever niet meewegen — taal en motivatie wel."
+    },
+    {
+      "id": "les15-q11",
+      "topic": "Werk",
+      "question": "Wie maken de cao?",
+      "options": [
+        "De regering en de werkgevers",
+        "De vakbond en de werkgevers",
+        "De vakbond en de werknemers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een cao (collectieve arbeidsovereenkomst) wordt afgesproken tussen werkgevers en vakbonden."
+    },
+    {
+      "id": "les15-q12",
+      "topic": "Werk",
+      "question": "Wat is niet belangrijk voor een beoordeling op het werk?",
+      "options": [
+        "Hoe oud je bent",
+        "Of je goed communiceert met collega's",
+        "Of je op tijd op het werk komt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leeftijd mag geen rol spelen bij een beoordeling — dat is leeftijdsdiscriminatie."
+    },
+    {
+      "id": "les16-q01",
+      "topic": "Verzekeringen",
+      "question": "Je laat jouw computer vallen. Welke verzekering betaalt misschien de schade?",
+      "options": [
+        "De aansprakelijkheidsverzekering",
+        "De opstalverzekering",
+        "De inboedelverzekering"
+      ],
+      "correctIndex": 2,
+      "explanation": "De inboedelverzekering dekt schade aan spullen in huis, zoals een computer."
+    },
+    {
+      "id": "les16-q02",
+      "topic": "Verzekeringen",
+      "question": "Welke verzekering is niet verplicht?",
+      "options": [
+        "De autoverzekering",
+        "De reisverzekering",
+        "De zorgverzekering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een reisverzekering is vrijwillig. Zorgverzekering en (WA-)autoverzekering zijn verplicht."
+    },
+    {
+      "id": "les16-q03",
+      "topic": "Verzekeringen",
+      "question": "Hoe heet het officiële document van de verzekering?",
+      "options": [
+        "De polis",
+        "De premie",
+        "De zorgpas"
+      ],
+      "correctIndex": 0,
+      "explanation": "De polis is het officiële contract waarin staat wat de verzekering precies dekt."
+    },
+    {
+      "id": "les16-q04",
+      "topic": "Verzekeringen",
+      "question": "Wat betekent: een verzekering afsluiten?",
+      "options": [
+        "Een verzekering beëindigen",
+        "Een verzekering beginnen",
+        "Een verzekering opzeggen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een verzekering 'afsluiten' betekent dat je hem aanvraagt en begint."
+    },
+    {
+      "id": "les16-q05",
+      "topic": "Verzekeringen",
+      "question": "Betaalt de zorgverzekering ook medische kosten op vakantie in het buitenland?",
+      "options": [
+        "Ja, maar alleen als het echt nodig is",
+        "Ja, maar alleen met een aanvullende verzekering",
+        "Nee"
+      ],
+      "correctIndex": 0,
+      "explanation": "De basisverzekering vergoedt noodzakelijke zorg in het buitenland (vooral binnen de EU)."
+    },
+    {
+      "id": "les16-q06",
+      "topic": "Verzekeringen",
+      "question": "Wat betekent: declareren?",
+      "options": [
+        "Een aanvullende verzekering afsluiten",
+        "Geld terugvragen van de verzekering",
+        "Premie betalen aan de verzekeringsmaatschappij"
+      ],
+      "correctIndex": 1,
+      "explanation": "Declareren is gemaakte kosten indienen bij de verzekering om je geld terug te krijgen."
+    },
+    {
+      "id": "les16-q07",
+      "topic": "Verzekeringen",
+      "question": "Welk deel van de schade moet je zelf betalen?",
+      "options": [
+        "Een eigen bijdrage",
+        "De premie",
+        "Het eigen risico"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het eigen risico is het bedrag dat je eerst zelf betaalt voordat de verzekering vergoedt."
+    },
+    {
+      "id": "les16-q08",
+      "topic": "Verzekeringen",
+      "question": "Wat is een voorbeeld van verzekeringsfraude?",
+      "options": [
+        "Je valt in slaap met een sigaret en er komt brand",
+        "Je maakt zelf brand in je huis en je vraagt geld terug van de verzekering",
+        "De buurman maakt brand in jouw huis, maar hij heeft geen aansprakelijkheidsverzekering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Met opzet schade veroorzaken om geld te krijgen is verzekeringsfraude — strafbaar."
+    },
+    {
+      "id": "les16-q09",
+      "topic": "Verzekeringen",
+      "question": "Wat is een voorbeeld van een volksverzekering?",
+      "options": [
+        "AOW",
+        "Bijstand",
+        "De zorgverzekering"
+      ],
+      "correctIndex": 0,
+      "explanation": "AOW is een volksverzekering: voor iedereen die in Nederland woont."
+    },
+    {
+      "id": "les16-q10",
+      "topic": "Verzekeringen",
+      "question": "Van welke verzekering krijg je geld samen met de AOW?",
+      "options": [
+        "De aansprakelijkheidsverzekering",
+        "De opstalverzekering",
+        "De pensioenverzekering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Naast de AOW ontvangen veel mensen ook pensioen via hun (vroegere) werkgever."
+    },
+    {
+      "id": "les16-q11",
+      "topic": "Verzekeringen",
+      "question": "Wat betekent: arbeidsongeschikt?",
+      "options": [
+        "Je kan niet werken omdat je geen diploma's hebt",
+        "Je kan niet werken omdat je kleine kinderen hebt",
+        "Je kan niet werken omdat je een ongeluk had"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arbeidsongeschikt betekent dat je door ziekte of een ongeluk niet kunt werken."
+    },
+    {
+      "id": "les16-q12",
+      "topic": "Verzekeringen",
+      "question": "Hoe noem je het salaris inclusief premies en belastingen?",
+      "options": [
+        "Het bruto salaris",
+        "Het loon",
+        "Het netto salaris"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bruto = vóór aftrek van belastingen en premies. Netto = wat je daadwerkelijk ontvangt."
+    },
+    {
+      "id": "les16-q13",
+      "topic": "Verzekeringen",
+      "question": "Waarvoor heb je een DigiD nodig?",
+      "options": [
+        "Voor de aangetekende brief",
+        "Voor de belastingaangifte",
+        "Voor de jaaropgave"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor de belastingaangifte log je in bij de Belastingdienst met je DigiD."
+    },
+    {
+      "id": "les17-q01",
+      "topic": "Help!",
+      "question": "Wanneer bel je naar het alarmnummer (112)?",
+      "options": [
+        "De buren hebben ruzie",
+        "Iemand heeft zijn been gebroken",
+        "Je fiets is gestolen"
+      ],
+      "correctIndex": 1,
+      "explanation": "112 bel je bij spoed waar acuut hulp nodig is — bijvoorbeeld een ernstig letsel."
+    },
+    {
+      "id": "les17-q02",
+      "topic": "Help!",
+      "question": "Bij welk probleem helpt een maatschappelijk werker?",
+      "options": [
+        "Je bent depressief",
+        "Je bent eenzaam",
+        "Je hebt geen werk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een maatschappelijk werker helpt bij sociale problemen zoals eenzaamheid en relatieproblemen."
+    },
+    {
+      "id": "les17-q03",
+      "topic": "Help!",
+      "question": "Bij welk probleem helpt een psycholoog?",
+      "options": [
+        "Je collega's discrimineren je",
+        "Je drinkt veel vanwege de problemen in jouw land",
+        "Je hoort mensen praten als ze er niet zijn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Een psycholoog behandelt psychische klachten zoals hallucinaties (mensen horen die er niet zijn)."
+    },
+    {
+      "id": "les17-q04",
+      "topic": "Help!",
+      "question": "Wat is geestelijke gezondheidszorg (GGZ)?",
+      "options": [
+        "Een andere naam voor GGD",
+        "Een plaats waar psychologen en psychiaters werken",
+        "Een polikliniek in het ziekenhuis"
+      ],
+      "correctIndex": 1,
+      "explanation": "De geestelijke gezondheidszorg (GGZ) is voor hulp bij psychische problemen."
+    },
+    {
+      "id": "les17-q05",
+      "topic": "Help!",
+      "question": "Wie betaalt de zorgverzekering niet voor?",
+      "options": [
+        "De maatschappelijk werker",
+        "De psychiater",
+        "De psycholoog"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maatschappelijk werk valt niet onder de zorgverzekering (gemeente betaalt vaak via de Wmo)."
+    },
+    {
+      "id": "les17-q06",
+      "topic": "Help!",
+      "question": "Wie helpt bij problemen met de opvoeding?",
+      "options": [
+        "De Kinderbescherming",
+        "Veilig Thuis",
+        "Het CJG (Centrum voor Jeugd en Gezin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het Centrum voor Jeugd en Gezin (CJG) geeft advies en hulp bij opvoeden."
+    },
+    {
+      "id": "les17-q07",
+      "topic": "Help!",
+      "question": "Je denkt dat ouders hun kinderen mishandelen. Welk telefoonnummer bel je?",
+      "options": [
+        "112",
+        "0900 8844",
+        "0800 2000"
+      ],
+      "correctIndex": 2,
+      "explanation": "0800 2000 is het gratis nummer van Veilig Thuis voor (vermoedens van) kindermishandeling."
+    },
+    {
+      "id": "les17-q08",
+      "topic": "Help!",
+      "question": "Moet je voor hulp van Vluchtelingenwerk betalen?",
+      "options": [
+        "Ja",
+        "Ja, maar de zorgverzekering betaalt ook een deel",
+        "Nee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vluchtelingenwerk is een vrijwilligersorganisatie en biedt gratis hulp."
+    },
+    {
+      "id": "les17-q09",
+      "topic": "Help!",
+      "question": "Welke hulp krijg je bijvoorbeeld van Vluchtelingenwerk?",
+      "options": [
+        "Een inburgeringscursus",
+        "Hulp als je lang ziek thuis bent",
+        "Hulp bij het invullen van een formulier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vluchtelingenwerk helpt onder andere met formulieren, brieven en praktische zaken."
+    },
+    {
+      "id": "les17-q10",
+      "topic": "Help!",
+      "question": "Wat is geen corruptie?",
+      "options": [
+        "Een bedrijf betaalt de vakantie van de burgemeester",
+        "Een vriend van de politieagent hoeft geen boete te betalen",
+        "Je maakt een fout in de belastingaangifte en moet een boete betalen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Een fout maken en daarvoor een boete krijgen is geen corruptie — gewoon een gevolg van de wet."
+    },
+    {
+      "id": "img-prov-01",
+      "topic": "Provincies",
+      "question": "Hoeveel provincies heeft Nederland?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met de twaalf provincies",
+      "options": [
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nederland heeft twaalf provincies. De jongste is Flevoland (1986)."
+    },
+    {
+      "id": "img-prov-02",
+      "topic": "Provincies",
+      "question": "Welke provincie ligt het meest in het zuiden van Nederland?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met de twaalf provincies",
+      "options": [
+        "Limburg",
+        "Noord-Brabant",
+        "Zeeland"
+      ],
+      "correctIndex": 0,
+      "explanation": "Limburg ligt het meest zuidelijk; Maastricht is de zuidelijkste grote stad."
+    },
+    {
+      "id": "img-prov-03",
+      "topic": "Provincies",
+      "question": "Wat is de hoofdstad van Friesland?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies en hoofdsteden",
+      "options": [
+        "Assen",
+        "Groningen",
+        "Leeuwarden"
+      ],
+      "correctIndex": 2,
+      "explanation": "Leeuwarden is de hoofdstad van Friesland."
+    },
+    {
+      "id": "img-prov-04",
+      "topic": "Provincies",
+      "question": "Welke provincie heeft als hoofdstad 's-Hertogenbosch?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies en hoofdsteden",
+      "options": [
+        "Gelderland",
+        "Limburg",
+        "Noord-Brabant"
+      ],
+      "correctIndex": 2,
+      "explanation": "'s-Hertogenbosch (kortweg Den Bosch) is de hoofdstad van Noord-Brabant."
+    },
+    {
+      "id": "img-prov-05",
+      "topic": "Provincies",
+      "question": "Wat is de hoofdstad van de provincie Overijssel?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies en hoofdsteden",
+      "options": [
+        "Arnhem",
+        "Lelystad",
+        "Zwolle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zwolle is de hoofdstad van Overijssel."
+    },
+    {
+      "id": "img-prov-06",
+      "topic": "Provincies",
+      "question": "In welke provincie ligt de stad Maastricht?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies",
+      "options": [
+        "Limburg",
+        "Noord-Brabant",
+        "Zeeland"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maastricht ligt in het zuiden van Limburg."
+    },
+    {
+      "id": "img-prov-07",
+      "topic": "Provincies",
+      "question": "In welke provincie ligt Den Haag?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies en hoofdsteden",
+      "options": [
+        "Noord-Holland",
+        "Utrecht",
+        "Zuid-Holland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Den Haag ligt in Zuid-Holland en is ook de hoofdstad van die provincie."
+    },
+    {
+      "id": "img-prov-08",
+      "topic": "Provincies",
+      "question": "Welke provincie ligt geheel in een polder?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies",
+      "options": [
+        "Flevoland",
+        "Overijssel",
+        "Zeeland"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flevoland is helemaal nieuw land, drooggelegd uit het IJsselmeer."
+    },
+    {
+      "id": "img-prov-09",
+      "topic": "Provincies",
+      "question": "In welke provincie ligt Amsterdam?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies en hoofdsteden",
+      "options": [
+        "Flevoland",
+        "Noord-Holland",
+        "Utrecht"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amsterdam ligt in Noord-Holland en is ook de hoofdstad van die provincie."
+    },
+    {
+      "id": "img-prov-10",
+      "topic": "Provincies",
+      "question": "Welke provincie heeft als hoofdstad Arnhem?",
+      "image": "images/provincies-kaart.png",
+      "imageAlt": "Kaart van Nederland met provincies en hoofdsteden",
+      "options": [
+        "Drenthe",
+        "Gelderland",
+        "Utrecht"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arnhem is de hoofdstad van Gelderland."
+    },
+    {
+      "id": "img-steden-01",
+      "topic": "Steden en gebieden",
+      "question": "In welke provincie ligt het natuurgebied de Veluwe?",
+      "image": "images/steden-kaart.png",
+      "imageAlt": "Kaart met de grote steden, Veluwe en Waddeneilanden",
+      "options": [
+        "Drenthe",
+        "Gelderland",
+        "Overijssel"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Veluwe is het grootste aaneengesloten natuurgebied van Nederland en ligt in Gelderland."
+    },
+    {
+      "id": "img-steden-02",
+      "topic": "Steden en gebieden",
+      "question": "Welk land grenst aan Nederland in het oosten?",
+      "image": "images/steden-kaart.png",
+      "imageAlt": "Kaart met buurlanden België en Duitsland",
+      "options": [
+        "België",
+        "Duitsland",
+        "Frankrijk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Duitsland ligt ten oosten van Nederland; België ligt ten zuiden."
+    },
+    {
+      "id": "img-steden-03",
+      "topic": "Steden en gebieden",
+      "question": "Waar liggen de Waddeneilanden?",
+      "image": "images/steden-kaart.png",
+      "imageAlt": "Kaart met Waddeneilanden in het noorden",
+      "options": [
+        "In het noorden van Nederland",
+        "In het westen van Nederland",
+        "In het zuiden van Nederland"
+      ],
+      "correctIndex": 0,
+      "explanation": "De Waddeneilanden liggen in het noorden van Nederland, in de Waddenzee."
+    },
+    {
+      "id": "konink-01",
+      "topic": "Het koningshuis",
+      "question": "Wie is op dit moment de koning van Nederland?",
+      "options": [
+        "Willem-Alexander",
+        "Beatrix",
+        "Maurits"
+      ],
+      "correctIndex": 0,
+      "explanation": "Willem-Alexander is sinds 2013 koning van Nederland."
+    },
+    {
+      "id": "konink-02",
+      "topic": "Het koningshuis",
+      "question": "Hoe heet de koningin van Nederland?",
+      "options": [
+        "Amalia",
+        "Beatrix",
+        "Máxima"
+      ],
+      "correctIndex": 2,
+      "explanation": "Máxima is de echtgenote van koning Willem-Alexander en daarmee koningin."
+    },
+    {
+      "id": "konink-03",
+      "topic": "Het koningshuis",
+      "question": "Wie wordt later koningin van Nederland?",
+      "options": [
+        "Alexia",
+        "Amalia",
+        "Ariane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amalia is de oudste dochter van Willem-Alexander en de troonopvolger."
+    },
+    {
+      "id": "konink-04",
+      "topic": "Het koningshuis",
+      "question": "Hoe noemen we de directe familie van de koning?",
+      "options": [
+        "Het kabinet",
+        "Het koningshuis",
+        "Het parlement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het koningshuis is de familie van de koning."
+    },
+    {
+      "id": "konink-05",
+      "topic": "Het koningshuis",
+      "question": "Heeft de koning van Nederland veel macht?",
+      "options": [
+        "Ja, hij neemt de meeste beslissingen",
+        "Nee, hij heeft vooral een ceremoniële functie",
+        "Ja, hij is de leider van het parlement"
+      ],
+      "correctIndex": 1,
+      "explanation": "De koning heeft weinig politieke macht; hij is vooral 'het gezicht' van Nederland."
+    },
+    {
+      "id": "staat-01",
+      "topic": "De Nederlandse staat",
+      "question": "Hoeveel leden heeft de Eerste Kamer?",
+      "options": [
+        "75",
+        "100",
+        "150"
+      ],
+      "correctIndex": 0,
+      "explanation": "De Eerste Kamer heeft 75 leden, de Tweede Kamer heeft er 150."
+    },
+    {
+      "id": "staat-02",
+      "topic": "De Nederlandse staat",
+      "question": "Wat is het kabinet?",
+      "options": [
+        "Alleen de minister-president",
+        "Alle ministers en staatssecretarissen samen",
+        "De koning en de minister-president samen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het kabinet bestaat uit alle ministers en staatssecretarissen."
+    },
+    {
+      "id": "staat-03",
+      "topic": "De Nederlandse staat",
+      "question": "Wat is een coalitie?",
+      "options": [
+        "Eén partij die de regering vormt",
+        "Een groep partijen die samen de regering vormen",
+        "De oppositie in de Tweede Kamer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een coalitie is een samenwerking van meerdere partijen die samen de regering vormen."
+    },
+    {
+      "id": "staat-04",
+      "topic": "De Nederlandse staat",
+      "question": "Wat is een referendum?",
+      "options": [
+        "Een verkiezing voor de Tweede Kamer",
+        "Een stemming waarbij je 'ja' of 'nee' zegt tegen een voorstel",
+        "Een vergadering van het kabinet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bij een referendum stemmen mensen voor of tegen een specifiek voorstel."
+    },
+    {
+      "id": "staat-05",
+      "topic": "De Nederlandse staat",
+      "question": "Wat zijn de drie machten in Nederland?",
+      "options": [
+        "De koning, de regering en het parlement",
+        "De wetgevende, uitvoerende en rechterlijke macht",
+        "De gemeente, provincie en het rijk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trias politica: wetgevende (regering+parlement), uitvoerende (regering) en rechterlijke macht (rechters)."
+    },
+    {
+      "id": "staat-06",
+      "topic": "De Nederlandse staat",
+      "question": "Wie is de leider van het bestuur van een provincie?",
+      "options": [
+        "De burgemeester",
+        "De commissaris van de Koning",
+        "De minister-president"
+      ],
+      "correctIndex": 1,
+      "explanation": "De commissaris van de Koning leidt het bestuur van een provincie."
+    },
+    {
+      "id": "staat-07",
+      "topic": "De Nederlandse staat",
+      "question": "Hoe heet het parlement van een provincie?",
+      "options": [
+        "De gemeenteraad",
+        "De Provinciale Staten",
+        "De Tweede Kamer"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Provinciale Staten is het parlement van een provincie."
+    },
+    {
+      "id": "staat-08",
+      "topic": "De Nederlandse staat",
+      "question": "Waarvoor zorgt het waterschap?",
+      "options": [
+        "Voor scholen en onderwijs",
+        "Voor de politie",
+        "Voor het water — bijvoorbeeld dijken, rivieren en drinkwater"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het waterschap zorgt voor waterveiligheid, schoon water en dijken in zijn gebied."
+    },
+    {
+      "id": "staat-09",
+      "topic": "De Nederlandse staat",
+      "question": "Hoe vaak zijn er verkiezingen voor het Europees Parlement?",
+      "options": [
+        "Eén keer per 4 jaar",
+        "Eén keer per 5 jaar",
+        "Eén keer per 6 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor het Europees Parlement zijn er eens in de 5 jaar verkiezingen."
+    },
+    {
+      "id": "staat-10",
+      "topic": "De Nederlandse staat",
+      "question": "Wat staat er in artikel 1 van de grondwet?",
+      "options": [
+        "Iedereen is gelijk; discriminatie is verboden",
+        "De koning is het staatshoofd",
+        "Nederland is een democratie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Artikel 1: gelijke behandeling, verbod op discriminatie naar geloof, geslacht, ras of seksualiteit."
+    },
+    {
+      "id": "staat-11",
+      "topic": "De Nederlandse staat",
+      "question": "Wie ondersteunt een minister?",
+      "options": [
+        "De ambtenaar",
+        "De staatssecretaris",
+        "De wethouder"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een staatssecretaris ondersteunt een minister en heeft een eigen werkterrein."
+    },
+    {
+      "id": "staat-12",
+      "topic": "De Nederlandse staat",
+      "question": "Wat is een ambtenaar?",
+      "options": [
+        "Een lid van de Tweede Kamer",
+        "Een persoon die voor de overheid werkt en wetten uitvoert",
+        "Een minister van de regering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ambtenaren werken voor de overheid en voeren beleid en wetten uit."
+    },
+    {
+      "id": "staat-13",
+      "topic": "De Nederlandse staat",
+      "question": "Stemmen is in Nederland …",
+      "options": [
+        "altijd verplicht",
+        "verplicht na 25 jaar",
+        "niet verplicht"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stemmen is in Nederland een recht, geen plicht."
+    },
+    {
+      "id": "staat-14",
+      "topic": "De Nederlandse staat",
+      "question": "Mag iemand met de Italiaanse nationaliteit die in Nederland woont stemmen voor het Europees Parlement?",
+      "options": [
+        "Ja, want Italië hoort bij de EU",
+        "Nee, alleen Nederlanders mogen stemmen",
+        "Ja, maar alleen na 5 jaar in Nederland"
+      ],
+      "correctIndex": 0,
+      "explanation": "EU-burgers mogen in hun land van verblijf stemmen voor het Europees Parlement."
+    },
+    {
+      "id": "gesch-01",
+      "topic": "Geschiedenis",
+      "question": "Wat is de Hongerwinter?",
+      "options": [
+        "De winter van 1944-1945, toen er weinig eten was in Nederland",
+        "Een traditie waarbij mensen een dag lang vasten",
+        "De koudste winter ooit in Nederland"
+      ],
+      "correctIndex": 0,
+      "explanation": "In de winter van 1944-1945 was er extreme honger in bezet Nederland; veel mensen stierven."
+    },
+    {
+      "id": "gesch-02",
+      "topic": "Geschiedenis",
+      "question": "Wat is de Holocaust?",
+      "options": [
+        "De oorlog tussen Spanje en Nederland",
+        "De moord op zes miljoen Joden tijdens de Tweede Wereldoorlog",
+        "De Nederlandse hongersnood in de oorlog"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Holocaust is de systematische moord door nazi-Duitsland op ongeveer 6 miljoen Joden."
+    },
+    {
+      "id": "gesch-03",
+      "topic": "Geschiedenis",
+      "question": "Wat is antisemitisme?",
+      "options": [
+        "Discriminatie van Joodse mensen",
+        "Een politieke partij",
+        "Een vorm van religie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antisemitisme is haat of discriminatie tegen Joden — verboden volgens de Nederlandse wet."
+    },
+    {
+      "id": "gesch-04",
+      "topic": "Geschiedenis",
+      "question": "Wanneer werd Suriname een onafhankelijk land?",
+      "options": [
+        "1945",
+        "1949",
+        "1975"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suriname werd in 1975 onafhankelijk van Nederland."
+    },
+    {
+      "id": "gesch-05",
+      "topic": "Geschiedenis",
+      "question": "Wanneer werd Indonesië een onafhankelijk land?",
+      "options": [
+        "1945",
+        "1949",
+        "1975"
+      ],
+      "correctIndex": 1,
+      "explanation": "Indonesië werd door Nederland erkend in 1949 (de onafhankelijkheid was uitgeroepen in 1945)."
+    },
+    {
+      "id": "gesch-06",
+      "topic": "Geschiedenis",
+      "question": "Hoe heette een beroemde Nederlandse schilder uit de Gouden Eeuw?",
+      "options": [
+        "Picasso",
+        "Rembrandt",
+        "Van Gogh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rembrandt van Rijn was een beroemde 17e-eeuwse Nederlandse schilder. Van Gogh is van veel later (19e eeuw)."
+    },
+    {
+      "id": "gesch-07",
+      "topic": "Geschiedenis",
+      "question": "Wat is De Nachtwacht?",
+      "options": [
+        "Een gedicht over de Tweede Wereldoorlog",
+        "Een schilderij van Rembrandt",
+        "Een museum in Den Haag"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Nachtwacht is een wereldberoemd schilderij van Rembrandt, te zien in het Rijksmuseum in Amsterdam."
+    },
+    {
+      "id": "gesch-08",
+      "topic": "Geschiedenis",
+      "question": "Welke kleur dragen Nederlandse sporters vaak bij internationale wedstrijden?",
+      "options": [
+        "Blauw",
+        "Oranje",
+        "Rood-wit-blauw"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oranje is de nationale kleur, naar de familie Van Oranje."
+    },
+    {
+      "id": "gesch-09",
+      "topic": "Geschiedenis",
+      "question": "Wat zijn 'gastarbeiders'?",
+      "options": [
+        "Toeristen die in Nederland werken",
+        "Werknemers uit landen als Turkije en Marokko die rond 1970 voor werk naar Nederland kwamen",
+        "Diplomaten uit andere landen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gastarbeiders kwamen vooral uit Turkije, Marokko en Zuid-Europa toen de Nederlandse economie veel werknemers nodig had."
+    },
+    {
+      "id": "gesch-10",
+      "topic": "Geschiedenis",
+      "question": "Wat is een 'kennismigrant' of 'expat'?",
+      "options": [
+        "Iemand die zonder papieren in Nederland werkt",
+        "Iemand met een hoge opleiding die in Nederland komt werken",
+        "Een vluchteling uit een oorlogsland"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kennismigranten/expats zijn werknemers met een theoretische opleiding (bv. ICT, universiteit)."
+    },
+    {
+      "id": "intl-01",
+      "topic": "Internationaal",
+      "question": "Wat is de EU?",
+      "options": [
+        "Een militaire samenwerking van Europese landen",
+        "Een economische samenwerking van Europese landen",
+        "Een organisatie voor vluchtelingen"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Europese Unie is een politiek-economisch samenwerkingsverband van 27 Europese landen."
+    },
+    {
+      "id": "intl-02",
+      "topic": "Internationaal",
+      "question": "Wat is de NAVO?",
+      "options": [
+        "Een economische samenwerking",
+        "Een militair bondgenootschap van landen in Europa, de VS en Canada",
+        "Een organisatie van Aziatische landen"
+      ],
+      "correctIndex": 1,
+      "explanation": "De NAVO (NATO) is een militaire samenwerking; landen helpen elkaar bij een aanval."
+    },
+    {
+      "id": "intl-03",
+      "topic": "Internationaal",
+      "question": "Wat doen de Verenigde Naties (VN)?",
+      "options": [
+        "Belasting innen in Europa",
+        "Werken aan vrede en veiligheid in de wereld",
+        "Studiefinanciering verzorgen"
+      ],
+      "correctIndex": 1,
+      "explanation": "De VN is een wereldorganisatie die werkt aan vrede, veiligheid en mensenrechten."
+    },
+    {
+      "id": "intl-04",
+      "topic": "Internationaal",
+      "question": "Horen China en Rusland bij de NAVO?",
+      "options": [
+        "Ja",
+        "Nee",
+        "Alleen Rusland"
+      ],
+      "correctIndex": 1,
+      "explanation": "China en Rusland zijn geen lid van de NAVO."
+    },
+    {
+      "id": "zorg-01",
+      "topic": "Gezondheidszorg",
+      "question": "Naar wie ga je in Nederland eerst als je ziek bent?",
+      "options": [
+        "Naar de specialist in het ziekenhuis",
+        "Naar de huisarts",
+        "Naar de spoedeisende hulp"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Nederland is de huisarts altijd het eerste aanspreekpunt; die verwijst zo nodig door."
+    },
+    {
+      "id": "zorg-02",
+      "topic": "Gezondheidszorg",
+      "question": "Wie helpt vrouwen tijdens een normale bevalling thuis?",
+      "options": [
+        "De gynaecoloog",
+        "De huisarts",
+        "De verloskundige"
+      ],
+      "correctIndex": 2,
+      "explanation": "De verloskundige begeleidt zwangerschap en bevalling; de gynaecoloog komt in beeld bij medische problemen."
+    },
+    {
+      "id": "zorg-03",
+      "topic": "Gezondheidszorg",
+      "question": "Wat is een 'doktersassistent'?",
+      "options": [
+        "De arts die je behandelt",
+        "Een medewerker in de huisartsenpraktijk die afspraken regelt en eenvoudige onderzoeken doet",
+        "Een specialist in het ziekenhuis"
+      ],
+      "correctIndex": 1,
+      "explanation": "De doktersassistent neemt telefoon op, plant afspraken en doet eenvoudige onderzoeken zoals urinetests."
+    },
+    {
+      "id": "zorg-04",
+      "topic": "Gezondheidszorg",
+      "question": "Wat is een 'apotheek'?",
+      "options": [
+        "Een soort ziekenhuis",
+        "Een winkel voor medicijnen",
+        "Een sportschool"
+      ],
+      "correctIndex": 1,
+      "explanation": "In de apotheek krijg je medicijnen die de huisarts of specialist heeft voorgeschreven."
+    },
+    {
+      "id": "zorg-05",
+      "topic": "Gezondheidszorg",
+      "question": "Voor wie is de basis-zorgverzekering gratis?",
+      "options": [
+        "Voor iedereen onder de 30",
+        "Voor kinderen tot 18 jaar",
+        "Voor niemand — iedereen betaalt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kinderen onder 18 zijn gratis meeverzekerd op de basisverzekering van een ouder."
+    },
+    {
+      "id": "feest-01",
+      "topic": "Feestdagen",
+      "question": "Wanneer is Valentijnsdag?",
+      "options": [
+        "1 februari",
+        "14 februari",
+        "1 maart"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valentijnsdag — de dag van de liefde — is op 14 februari."
+    },
+    {
+      "id": "feest-02",
+      "topic": "Feestdagen",
+      "question": "Wanneer vieren Nederlanders Sinterklaas?",
+      "options": [
+        "5 december",
+        "25 december",
+        "31 december"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sinterklaasavond is op 5 december — vooral kinderen krijgen dan cadeautjes."
+    },
+    {
+      "id": "feest-03",
+      "topic": "Feestdagen",
+      "question": "Waar vieren mensen vooral carnaval in Nederland?",
+      "options": [
+        "In het noorden van Nederland",
+        "In het zuiden van Nederland",
+        "Overal even veel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Carnaval is een vooral zuidelijke (katholieke) traditie in provincies als Limburg en Noord-Brabant."
+    },
+    {
+      "id": "feest-04",
+      "topic": "Feestdagen",
+      "question": "Wat eten Nederlanders traditioneel op oudejaarsavond?",
+      "options": [
+        "Beschuit met muisjes",
+        "Oliebollen",
+        "Pepernoten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Op 31 december eten Nederlanders oliebollen en appelflappen."
+    },
+    {
+      "id": "feest-05",
+      "topic": "Feestdagen",
+      "question": "Hoe hangt de vlag op 4 mei (Dodenherdenking)?",
+      "options": [
+        "Halfstok",
+        "Helemaal in top",
+        "De vlag wordt niet uitgehangen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Op 4 mei hangt de vlag halfstok als teken van rouw. Op 5 mei (Bevrijdingsdag) hangt hij weer in top."
+    },
+    {
+      "id": "feest-06",
+      "topic": "Feestdagen",
+      "question": "Wanneer is Moederdag in Nederland?",
+      "options": [
+        "De eerste zondag van mei",
+        "De tweede zondag van mei",
+        "De derde zondag van mei"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moederdag is de tweede zondag van mei; Vaderdag de derde zondag van juni."
+    },
+    {
+      "id": "rechts-01",
+      "topic": "Rechtsstaat",
+      "question": "Wat is een 'rechtsstaat'?",
+      "options": [
+        "Een land met een koning",
+        "Een land waar de wetten voor iedereen gelden — ook voor de overheid",
+        "Een land zonder politie"
+      ],
+      "correctIndex": 1,
+      "explanation": "In een rechtsstaat staan dezelfde wetten boven iedereen, inclusief de overheid zelf."
+    },
+    {
+      "id": "rechts-02",
+      "topic": "Rechtsstaat",
+      "question": "Wat betekent godsdienstvrijheid?",
+      "options": [
+        "Iedereen moet hetzelfde geloof hebben",
+        "Iedereen mag zelf kiezen welk geloof hij heeft, of geen geloof",
+        "Religies zijn verboden in Nederland"
+      ],
+      "correctIndex": 1,
+      "explanation": "Godsdienstvrijheid is een grondrecht: kiezen voor welk geloof dan ook, of geen geloof."
+    },
+    {
+      "id": "rechts-03",
+      "topic": "Rechtsstaat",
+      "question": "Wat betekent 'tolerantie'?",
+      "options": [
+        "Geen moeite hebben met mensen met een andere cultuur of gewoonten",
+        "Mensen met een ander geloof verbieden",
+        "Alleen Nederlanders accepteren"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tolerantie betekent dat je mensen die anders zijn (cultuur, geloof, ideeën) accepteert."
+    },
+    {
+      "id": "rechts-04",
+      "topic": "Rechtsstaat",
+      "question": "Wat is 'vrijheid van meningsuiting'?",
+      "options": [
+        "Het recht om altijd gelijk te krijgen",
+        "Het recht om je mening te zeggen en te schrijven",
+        "Het recht om geen belasting te betalen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vrijheid van meningsuiting is een grondrecht — wel binnen de wet (geen haatzaaien, etc.)."
+    },
+    {
+      "id": "rechts-05",
+      "topic": "Rechtsstaat",
+      "question": "Welke groep mensen wordt door artikel 1 van de grondwet beschermd?",
+      "options": [
+        "Alleen mensen met de Nederlandse nationaliteit",
+        "Iedereen — ongeacht geloof, geslacht, huidskleur of seksualiteit",
+        "Alleen mensen die in Nederland geboren zijn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Artikel 1 verbiedt discriminatie van iedereen, op welke grond dan ook."
+    },
+    {
+      "id": "wonen-01",
+      "topic": "Wonen extra",
+      "question": "Wat is de 'Randstad'?",
+      "options": [
+        "Het gebied in het westen met de vier grootste steden (Amsterdam, Rotterdam, Den Haag, Utrecht)",
+        "De rand van Nederland langs de Duitse grens",
+        "Een natuurgebied in het noorden"
+      ],
+      "correctIndex": 0,
+      "explanation": "In de Randstad wonen veel mensen — het is het economisch hart van Nederland."
+    },
+    {
+      "id": "wonen-02",
+      "topic": "Wonen extra",
+      "question": "Wat is een polder?",
+      "options": [
+        "Een berg in Nederland",
+        "Een stuk land dat door dijken wordt beschermd tegen het water",
+        "Een soort huis aan een gracht"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een polder is laaggelegen land, ingedijkt en drooggemaakt — vaak onder zeeniveau."
+    },
+    {
+      "id": "wonen-03",
+      "topic": "Wonen extra",
+      "question": "Wat is de op één na grootste stad van Nederland?",
+      "options": [
+        "Den Haag",
+        "Rotterdam",
+        "Utrecht"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rotterdam is de tweede stad, Den Haag de derde, Utrecht de vierde."
+    },
+    {
+      "id": "wonen-04",
+      "topic": "Wonen extra",
+      "question": "Wat is een 'gracht'?",
+      "options": [
+        "Een soort dijk",
+        "Een waterweg in een stad",
+        "Een type huis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grachten zijn de bekende waterwegen in steden als Amsterdam en Utrecht."
+    },
+    {
+      "id": "wonen-05",
+      "topic": "Wonen extra",
+      "question": "Welke twee grote rivieren stromen door Nederland?",
+      "options": [
+        "Donau en Rijn",
+        "Rijn en Maas",
+        "Seine en Donau"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Rijn en de Maas zijn de twee grootste rivieren die door Nederland stromen."
+    },
+    {
+      "id": "instan-01",
+      "topic": "Instanties",
+      "question": "Wat doet de IND?",
+      "options": [
+        "De IND regelt verblijfsvergunningen voor mensen uit het buitenland",
+        "De IND geeft uitkeringen",
+        "De IND zorgt voor het onderwijs"
+      ],
+      "correctIndex": 0,
+      "explanation": "De Immigratie- en Naturalisatiedienst (IND) behandelt aanvragen voor verblijf en de Nederlandse nationaliteit."
+    },
+    {
+      "id": "instan-02",
+      "topic": "Instanties",
+      "question": "Wat doet DUO?",
+      "options": [
+        "DUO regelt studiefinanciering en het inburgeringsexamen",
+        "DUO is de Nederlandse politie",
+        "DUO is een ziekenhuis"
+      ],
+      "correctIndex": 0,
+      "explanation": "DUO (Dienst Uitvoering Onderwijs) regelt studiefinanciering, leningen en het KNM-examen."
+    },
+    {
+      "id": "instan-03",
+      "topic": "Instanties",
+      "question": "Waar haal je je rijbewijs in Nederland?",
+      "options": [
+        "Bij het CBR voor het examen, en bij de gemeente voor het document",
+        "Bij de politie",
+        "Bij het UWV"
+      ],
+      "correctIndex": 0,
+      "explanation": "Het CBR organiseert het rijexamen; daarna haal je je rijbewijs bij de gemeente."
+    },
+    {
+      "id": "instan-04",
+      "topic": "Instanties",
+      "question": "Wat is de SVB?",
+      "options": [
+        "De Sociale Verzekeringsbank — keert AOW en kinderbijslag uit",
+        "Een commerciële bank",
+        "Een verzekeringsbedrijf voor auto's"
+      ],
+      "correctIndex": 0,
+      "explanation": "De Sociale Verzekeringsbank betaalt onder andere AOW, kinderbijslag en Anw."
+    },
+    {
+      "id": "instan-05",
+      "topic": "Instanties",
+      "question": "Welk telefoonnummer is het alarmnummer bij spoed?",
+      "options": [
+        "112",
+        "144",
+        "0900-8844"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bel 112 bij spoed (politie, brandweer, ambulance). 0900-8844 is voor de politie zonder spoed."
+    },
+    {
+      "id": "instan-06",
+      "topic": "Instanties",
+      "question": "Welk nummer bel je voor de politie als er geen spoed is?",
+      "options": [
+        "112",
+        "0900-8844",
+        "0800-2000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor niet-spoed bel je 0900-8844 (de politie)."
+    },
+    {
+      "id": "school-extra-01",
+      "topic": "School extra",
+      "question": "Tot welke leeftijd is er in Nederland een leerplicht (kwalificatieplicht)?",
+      "options": [
+        "Tot 16 jaar",
+        "Tot 18 jaar (zonder startkwalificatie)",
+        "Tot 21 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "De volledige leerplicht is tot 16 jaar; daarna geldt kwalificatieplicht tot 18 of tot je een diploma havo/vwo/mbo-2 hebt."
+    },
+    {
+      "id": "school-extra-02",
+      "topic": "School extra",
+      "question": "Wat betekent 'mbo'?",
+      "options": [
+        "Middelbaar beroepsonderwijs",
+        "Maatschappelijk basisonderwijs",
+        "Modern bedrijfsonderwijs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mbo = middelbaar beroepsonderwijs — vakopleiding na het vmbo."
+    },
+    {
+      "id": "school-extra-03",
+      "topic": "School extra",
+      "question": "Wat betekent 'hbo'?",
+      "options": [
+        "Hoger basisonderwijs",
+        "Hoger beroepsonderwijs",
+        "Huishoudkundig basisonderwijs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hbo = hoger beroepsonderwijs — bijvoorbeeld lerarenopleiding, verpleegkunde."
+    },
+    {
+      "id": "werk-extra-01",
+      "topic": "Werk extra",
+      "question": "Wat zijn de wettelijke vakantiedagen voor een fulltime baan in Nederland?",
+      "options": [
+        "Minimaal 10 dagen per jaar",
+        "Minimaal 4 keer de werkweek (bij 5 dagen = 20 dagen)",
+        "Minimaal 30 dagen per jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Volgens de wet heb je minimaal 4 keer het aantal werkdagen per week aan vakantie (bv. 5 dagen → 20 vakantiedagen)."
+    },
+    {
+      "id": "werk-extra-02",
+      "topic": "Werk extra",
+      "question": "Wat is een 'cao'?",
+      "options": [
+        "Een soort verzekering",
+        "Collectieve arbeidsovereenkomst — afspraken tussen vakbond en werkgevers",
+        "Een persoonlijk arbeidscontract"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een cao bevat afspraken over loon, vakantie en werktijden voor een hele branche."
+    },
+    {
+      "id": "werk-extra-03",
+      "topic": "Werk extra",
+      "question": "Wat is een 'vakbond'?",
+      "options": [
+        "Een organisatie die opkomt voor de belangen van werknemers",
+        "Een verzekeringsmaatschappij",
+        "Een groep werkgevers die samenwerken"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een vakbond is een organisatie van werknemers die onderhandelt met werkgevers (bv. over de cao)."
+    },
+    {
+      "id": "samen-01",
+      "topic": "Samenleven",
+      "question": "Wat is een 'samenlevingscontract'?",
+      "options": [
+        "Een arbeidscontract",
+        "Een afspraak tussen mensen die ongetrouwd samenwonen, bij de notaris vastgelegd",
+        "Een contract voor een huurwoning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Met een samenlevingscontract leg je samen afspraken vast (bv. over gezamenlijke kosten en bezit) zonder te trouwen."
+    },
+    {
+      "id": "samen-02",
+      "topic": "Samenleven",
+      "question": "Wat is een 'geregistreerd partnerschap'?",
+      "options": [
+        "Een contract bij je werkgever",
+        "Een vorm van samenleven die juridisch bijna gelijk is aan een huwelijk",
+        "Een Nederlandse politieke partij"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een geregistreerd partnerschap geeft bijna dezelfde rechten en plichten als een huwelijk."
+    },
+    {
+      "id": "samen-03",
+      "topic": "Samenleven",
+      "question": "Sinds welk jaar mogen mensen van hetzelfde geslacht in Nederland trouwen?",
+      "options": [
+        "1990",
+        "2001",
+        "2015"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nederland was in 2001 het eerste land ter wereld met het homohuwelijk."
+    },
+    {
+      "id": "les09-q08",
+      "topic": "De wet",
+      "question": "Mag eerwraak of bloedwraak in Nederland?",
+      "options": [
+        "Ja",
+        "Ja, maar alleen met iemand van je eigen familie",
+        "Nee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eerwraak en bloedwraak zijn in Nederland strafbaar als (zware) mishandeling of moord."
+    },
+    {
+      "id": "les09-q09",
+      "topic": "De wet",
+      "question": "Kunnen homoseksuelen met elkaar trouwen in Nederland?",
+      "options": [
+        "Een vrouw kan wel met een vrouw trouwen, maar een man kan niet met een man trouwen",
+        "Ja",
+        "Nee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sinds 2001 is het homohuwelijk in Nederland gewoon toegestaan voor iedereen."
+    },
+    {
+      "id": "les09-q10",
+      "topic": "De wet",
+      "question": "Mag verkrachting in Nederland?",
+      "options": [
+        "Ja, als iemand ouder dan 16 jaar is",
+        "Ja, als je met iemand getrouwd bent",
+        "Nee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Verkrachting is altijd strafbaar — ook binnen het huwelijk."
+    },
+    {
+      "id": "les09-q11",
+      "topic": "De wet",
+      "question": "Mag besnijdenis in Nederland?",
+      "options": [
+        "Ja",
+        "Ja, maar alleen bij jongens",
+        "Nee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Besnijdenis bij jongens is toegestaan; vrouwenbesnijdenis is in Nederland verboden."
+    },
+    {
+      "id": "les11-q04",
+      "topic": "Na de wederopbouw",
+      "question": "Wat is verboden in Nederland?",
+      "options": [
+        "Abortus",
+        "Het homohuwelijk",
+        "Mishandeling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mishandeling is altijd strafbaar. Abortus en het homohuwelijk zijn juist toegestaan."
+    },
+    {
+      "id": "onderw-01",
+      "topic": "Onderwijs",
+      "question": "Wat zijn 'kleuters'?",
+      "options": [
+        "Kinderen van 4 en 5 jaar in groep 1 en 2 van de basisschool",
+        "Kinderen op de middelbare school",
+        "Baby's tot 1 jaar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kleuters zijn kinderen van 4-5 jaar; ze zitten in groep 1 en 2."
+    },
+    {
+      "id": "onderw-02",
+      "topic": "Onderwijs",
+      "question": "Hoeveel groepen heeft de basisschool in Nederland?",
+      "options": [
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "De basisschool heeft 8 groepen, van groep 1 (4-jarigen) tot groep 8 (12-jarigen)."
+    },
+    {
+      "id": "onderw-03",
+      "topic": "Onderwijs",
+      "question": "Hoe heet de eerste klas van het voortgezet onderwijs?",
+      "options": [
+        "De brugklas",
+        "De peuterklas",
+        "De schakelklas"
+      ],
+      "correctIndex": 0,
+      "explanation": "De brugklas is de eerste (soms ook tweede) klas van de middelbare school."
+    },
+    {
+      "id": "onderw-04",
+      "topic": "Onderwijs",
+      "question": "Wat is een 'schakelklas'?",
+      "options": [
+        "Een klas voor kinderen die nog niet zo lang in Nederland zijn — met extra Nederlands",
+        "Een klas voor kinderen met een handicap",
+        "De laatste klas van de basisschool"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een schakelklas geeft extra taalonderwijs aan kinderen die kort in Nederland zijn."
+    },
+    {
+      "id": "onderw-05",
+      "topic": "Onderwijs",
+      "question": "Hoe heet de schakelklas voor jongeren vanaf 12 jaar?",
+      "options": [
+        "De brugklas",
+        "De ISK (internationale schakelklas)",
+        "Het vmbo"
+      ],
+      "correctIndex": 1,
+      "explanation": "De ISK is voor jongeren vanaf 12 jaar die kort in Nederland zijn."
+    },
+    {
+      "id": "onderw-06",
+      "topic": "Onderwijs",
+      "question": "Hoeveel jaar duurt het vwo?",
+      "options": [
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Het vwo duurt 6 jaar, de havo 5 jaar, het vmbo 4 jaar."
+    },
+    {
+      "id": "onderw-07",
+      "topic": "Onderwijs",
+      "question": "Wie geeft het advies over het niveau van het voortgezet onderwijs?",
+      "options": [
+        "De ouders",
+        "De leraar van de basisschool",
+        "Het kind zelf"
+      ],
+      "correctIndex": 1,
+      "explanation": "De leraar van groep 8 geeft een schooladvies; ouders mogen niet zelf het niveau kiezen."
+    },
+    {
+      "id": "onderw-08",
+      "topic": "Onderwijs",
+      "question": "Wat is 'vrijheid van onderwijs'?",
+      "options": [
+        "Onderwijs is gratis",
+        "Je mag zelf de school voor je kind kiezen — bv. christelijk, islamitisch of openbaar",
+        "Kinderen mogen kiezen of ze naar school gaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vrijheid van onderwijs (Grondwet artikel 23): ouders kiezen de school die past bij hun overtuiging."
+    },
+    {
+      "id": "onderw-09",
+      "topic": "Onderwijs",
+      "question": "Wat is een 'openbare school'?",
+      "options": [
+        "Een school speciaal voor jongens",
+        "Een school zonder een specifiek geloof — voor iedereen",
+        "Een school die alleen 's avonds open is"
+      ],
+      "correctIndex": 1,
+      "explanation": "Op een openbare school is geloof niet de basis van het onderwijs; iedereen is welkom."
+    },
+    {
+      "id": "onderw-10",
+      "topic": "Onderwijs",
+      "question": "Mag je je kind in een schoolweek meenemen op vakantie?",
+      "options": [
+        "Ja, dat mag altijd",
+        "Nee, dat mag niet — je kunt een boete krijgen",
+        "Ja, maar alleen één week per jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tijdens de leerplicht mag je kind alleen in schoolvakanties vrij; ongeoorloofd thuisblijven kan een boete opleveren."
+    },
+    {
+      "id": "onderw-11",
+      "topic": "Onderwijs",
+      "question": "Wat is 'voorschoolse educatie' (vve)?",
+      "options": [
+        "Extra onderwijs voor kinderen op het vmbo",
+        "Peuteropvang voor kinderen met een achterstand in hun ontwikkeling",
+        "Een soort universiteit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vve is voor peuters met een (taal- of ontwikkelings)achterstand; bedoeld als goede start voor de basisschool."
+    },
+    {
+      "id": "onderw-12",
+      "topic": "Onderwijs",
+      "question": "Wat is 'kwalificatieplicht'?",
+      "options": [
+        "Je moet tot 16 jaar naar school",
+        "16- en 17-jarigen moeten naar school als ze nog geen diploma havo/vwo of mbo-2 hebben",
+        "Alle volwassenen moeten een diploma halen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na de leerplicht (16 jaar) geldt kwalificatieplicht tot 18 of tot een startkwalificatie."
+    },
+    {
+      "id": "werken-01",
+      "topic": "Werk extra",
+      "question": "Wat is MAP in het inburgeringsexamen?",
+      "options": [
+        "Een onderdeel over arbeidsmarkt en participatie",
+        "Een rekentoets",
+        "Een spreekvaardigheidstoets"
+      ],
+      "correctIndex": 0,
+      "explanation": "MAP = Module Arbeidsmarkt en Participatie — gaat over werken en werk zoeken in Nederland."
+    },
+    {
+      "id": "werken-02",
+      "topic": "Werk extra",
+      "question": "Wat betekent KNM in het inburgeringsexamen?",
+      "options": [
+        "Kerntoets Nederlandse Maatschappij",
+        "Kennis van de Nederlandse Maatschappij",
+        "Kennis Nationaal Maatschappelijk"
+      ],
+      "correctIndex": 1,
+      "explanation": "KNM staat voor Kennis van de Nederlandse Maatschappij."
+    },
+    {
+      "id": "werken-03",
+      "topic": "Werk extra",
+      "question": "Wat is een 'zzp'er'?",
+      "options": [
+        "Een werknemer met een vast contract",
+        "Een zelfstandige zonder personeel — eigen bedrijf zonder medewerkers",
+        "Iemand die nog studeert"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een zzp'er werkt voor eigen rekening en heeft geen personeel in dienst."
+    },
+    {
+      "id": "werken-04",
+      "topic": "Werk extra",
+      "question": "Wat is een 'medezeggenschapsraad' (MR)?",
+      "options": [
+        "Een groep ouders en personeel die meebeslist op een school",
+        "De directie van een bedrijf",
+        "Een vakbond"
+      ],
+      "correctIndex": 0,
+      "explanation": "De MR is wettelijk verplicht op scholen; ouders en personeel praten en beslissen mee."
+    },
+    {
+      "id": "werken-05",
+      "topic": "Werk extra",
+      "question": "Wat is een 'ondernemingsraad' (OR)?",
+      "options": [
+        "Een groep werknemers die meebeslist over zaken in het bedrijf",
+        "De raad van bestuur",
+        "Een rechtbank"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bij bedrijven met 50+ werknemers is een OR verplicht; werknemers praten mee over besluiten."
+    },
+    {
+      "id": "werken-06",
+      "topic": "Werk extra",
+      "question": "Wat is het 'minimumloon'?",
+      "options": [
+        "Het maximale salaris dat je mag verdienen",
+        "Het laagste salaris dat een werkgever wettelijk moet betalen",
+        "Het bedrag aan belasting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het wettelijk minimumloon is het laagste loon dat een werkgever moet betalen."
+    },
+    {
+      "id": "werken-07",
+      "topic": "Werk extra",
+      "question": "Wat is het verschil tussen een tijdelijk en een vast contract?",
+      "options": [
+        "Geen verschil",
+        "Een tijdelijk contract heeft een einddatum, een vast contract niet",
+        "Een vast contract is alleen voor parttime werk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tijdelijk = bepaalde tijd (einddatum); vast = onbepaalde tijd."
+    },
+    {
+      "id": "werken-08",
+      "topic": "Werk extra",
+      "question": "Wat staat er op een 'jaaropgave'?",
+      "options": [
+        "Wat je het hele jaar verdiend hebt en hoeveel belasting is betaald",
+        "Een lijst met je vakantiedagen",
+        "De cao van je bedrijf"
+      ],
+      "correctIndex": 0,
+      "explanation": "De jaaropgave krijg je begin van het jaar van je werkgever; je gebruikt hem voor je belastingaangifte."
+    },
+    {
+      "id": "werken-09",
+      "topic": "Werk extra",
+      "question": "Wat kun je doen als je discriminatie ervaart op je werk?",
+      "options": [
+        "Niets — discriminatie is normaal",
+        "Erover praten met de persoon, leidinggevende of vertrouwenspersoon, of melden bij een meldpunt",
+        "Direct ontslag nemen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Praat eerst met de betrokkene of leidinggevende. Helpt niets, dan vertrouwenspersoon, vakbond of meldpunt discriminatie."
+    },
+    {
+      "id": "werken-10",
+      "topic": "Werk extra",
+      "question": "Wie is de 'leidinggevende'?",
+      "options": [
+        "Een collega met dezelfde functie",
+        "De baas op je werk",
+        "De directeur van het hele bedrijf"
+      ],
+      "correctIndex": 1,
+      "explanation": "Je leidinggevende is je directe baas die jouw werk aanstuurt."
+    },
+    {
+      "id": "vbv-01",
+      "topic": "Verblijfsvergunning",
+      "question": "Welke instantie beslist over verblijfsvergunningen?",
+      "options": [
+        "De gemeente",
+        "De IND",
+        "Het UWV"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Immigratie- en Naturalisatiedienst (IND) behandelt aanvragen voor verblijf en naturalisatie."
+    },
+    {
+      "id": "vbv-02",
+      "topic": "Verblijfsvergunning",
+      "question": "Wat is een mvv?",
+      "options": [
+        "Een verblijfsvergunning voor onbepaalde tijd",
+        "Een visum (machtiging tot voorlopig verblijf) — meestal nodig vóór je naar NL komt",
+        "Een examen voor inburgering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een mvv is een instapvisum voor mensen die langer dan 90 dagen in NL willen blijven."
+    },
+    {
+      "id": "vbv-03",
+      "topic": "Verblijfsvergunning",
+      "question": "Wat is een 'asielzoeker'?",
+      "options": [
+        "Een toerist",
+        "Iemand die in NL bescherming vraagt en wacht op een beslissing",
+        "Iemand met een vast contract"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een asielzoeker heeft asiel aangevraagd; krijgt hij een positieve beslissing, dan wordt hij statushouder."
+    },
+    {
+      "id": "vbv-04",
+      "topic": "Verblijfsvergunning",
+      "question": "Wat is een 'statushouder'?",
+      "options": [
+        "Iemand met een Nederlands paspoort",
+        "Een asielzoeker die een verblijfsvergunning heeft gekregen",
+        "Iemand met een werkvergunning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een statushouder is een vluchteling met verblijfsvergunning die mag inburgeren en werken."
+    },
+    {
+      "id": "vbv-05",
+      "topic": "Verblijfsvergunning",
+      "question": "Hoe lang moet je legaal in Nederland zijn voor een verblijfsvergunning voor onbepaalde tijd?",
+      "options": [
+        "3 jaar",
+        "5 jaar",
+        "10 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na 5 jaar legaal verblijf en met afgeronde inburgering kun je een onbepaalde-tijdvergunning aanvragen."
+    },
+    {
+      "id": "vbv-06",
+      "topic": "Verblijfsvergunning",
+      "question": "Hoe lang moet je legaal in Nederland zijn om Nederlander te kunnen worden?",
+      "options": [
+        "3 jaar",
+        "5 jaar (of 3 jaar met een NL partner)",
+        "10 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor naturalisatie: 5 jaar legaal verblijf (3 jaar met een NL partner) en afgeronde inburgering."
+    },
+    {
+      "id": "vbv-07",
+      "topic": "Verblijfsvergunning",
+      "question": "Wat is een 'huwelijksmigrant'?",
+      "options": [
+        "Een toerist",
+        "Iemand met een Nederlandse partner die naar Nederland komt",
+        "Iemand op vakantie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Een huwelijksmigrant heeft een NL partner en vraagt verblijf aan op die grond."
+    },
+    {
+      "id": "vbv-08",
+      "topic": "Verblijfsvergunning",
+      "question": "Welk taalniveau moet je meestal halen voor je inburgering?",
+      "options": [
+        "A1",
+        "A2",
+        "B1"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sinds 2022 (Wet inburgering 2021) is B1 het standaard taalniveau voor inburgeringsplichtigen."
+    },
+    {
+      "id": "bel-01",
+      "topic": "Belasting extra",
+      "question": "Bij welke instantie vraag je toeslagen aan?",
+      "options": [
+        "De gemeente",
+        "De Belastingdienst (Mijn Toeslagen)",
+        "Het UWV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Huurtoeslag, zorgtoeslag, kinderopvangtoeslag en kindgebonden budget vraag je aan via de Belastingdienst."
+    },
+    {
+      "id": "bel-02",
+      "topic": "Belasting extra",
+      "question": "Wat moet je doen als je situatie verandert (bv. inkomen, samenwonen) en je toeslag krijgt?",
+      "options": [
+        "Niets",
+        "Direct doorgeven aan de Belastingdienst — anders moet je later misschien terugbetalen",
+        "Wachten tot eind van het jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Veranderingen direct melden — anders kan de Belastingdienst geld terugvorderen."
+    },
+    {
+      "id": "bel-03",
+      "topic": "Belasting extra",
+      "question": "Wat kun je doen als je het niet eens bent met een beslissing van de Belastingdienst?",
+      "options": [
+        "Niets, het is definitief",
+        "Bezwaar maken",
+        "Een rechtbank starten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tegen een beslissing kun je een bezwaarschrift indienen bij de Belastingdienst."
+    },
+    {
+      "id": "bel-04",
+      "topic": "Belasting extra",
+      "question": "Wat is een 'btw'?",
+      "options": [
+        "Belasting Toegevoegde Waarde — die je betaalt op producten en diensten",
+        "Een soort uitkering",
+        "Een verblijfsvergunning"
+      ],
+      "correctIndex": 0,
+      "explanation": "Btw zit in de prijs van bijna alles wat je koopt (meestal 21% of 9%)."
+    },
+    {
+      "id": "sam-01",
+      "topic": "Samenleven extra",
+      "question": "Wat zeg je tegen iemand die slaagt voor een examen?",
+      "options": [
+        "Gecondoleerd",
+        "Gefeliciteerd",
+        "Veel sterkte"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Gefeliciteerd' zeg je bij vrolijke gebeurtenissen: verjaardag, geboorte, geslaagd, trouwen."
+    },
+    {
+      "id": "sam-02",
+      "topic": "Samenleven extra",
+      "question": "Wat zeg je in een moeilijke situatie of bij een sterfgeval om steun te tonen?",
+      "options": [
+        "Gefeliciteerd",
+        "Veel sterkte",
+        "Smakelijk eten"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Veel sterkte' is een veelgebruikte uitdrukking om medeleven of steun te tonen."
+    },
+    {
+      "id": "sam-03",
+      "topic": "Samenleven extra",
+      "question": "Wat is een 'latrelatie'?",
+      "options": [
+        "Een relatie waar de partners apart wonen (living apart together)",
+        "Een relatie via internet",
+        "Een relatie zonder seks"
+      ],
+      "correctIndex": 0,
+      "explanation": "Een latrelatie: stellen die wel een relatie hebben maar bewust niet samenwonen."
+    },
+    {
+      "id": "sam-04",
+      "topic": "Samenleven extra",
+      "question": "Hoeveel procent van de Nederlanders woont alleen?",
+      "options": [
+        "Ongeveer 5%",
+        "Ongeveer 20%",
+        "Ongeveer 50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ongeveer 1 op de 5 Nederlanders woont alleen — tien keer zoveel als in 1950."
+    },
+    {
+      "id": "sam-05",
+      "topic": "Samenleven extra",
+      "question": "Hoe noemen Nederlanders zichzelf vaak in gesprekken — 'direct' of 'indirect'?",
+      "options": [
+        "Direct — ze zeggen vaak eerlijk wat ze denken",
+        "Indirect — ze omfloersen alles",
+        "Stil — ze zeggen weinig"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nederlanders staan bekend om hun directheid; ze zeggen vaak eerlijk hun mening."
+    },
+    {
+      "id": "sam-06",
+      "topic": "Samenleven extra",
+      "question": "Wat hangen ouders bij de geboorte van een baby buiten?",
+      "options": [
+        "Een vlag met een tas eraan",
+        "Een ballon",
+        "Een oranje vlag"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bij een geboorte hangt traditioneel een vlag met een tas (luiertas) aan de buitenkant."
+    },
+    {
+      "id": "pol-01",
+      "topic": "Politie en klachten",
+      "question": "Wat is 'aangifte doen'?",
+      "options": [
+        "Een belasting betalen",
+        "Officieel bij de politie melden dat er iets strafbaars is gebeurd",
+        "Je verhuizen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Met aangifte zet je een misdrijf op papier bij de politie zodat ze kunnen onderzoeken."
+    },
+    {
+      "id": "pol-02",
+      "topic": "Politie en klachten",
+      "question": "Wat doet een 'ombudsman'?",
+      "options": [
+        "Een advocaat in een rechtszaak",
+        "Helpt bij klachten tegen de overheid",
+        "Schrijft de wet"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Nationale ombudsman behandelt klachten van burgers tegen overheidsinstanties."
+    },
+    {
+      "id": "pol-03",
+      "topic": "Politie en klachten",
+      "question": "Wat is een 'meldpunt discriminatie'?",
+      "options": [
+        "Een plek om discriminatie te melden — vaak per gemeente of regio",
+        "Een politiebureau",
+        "Een rechtbank"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antidiscriminatievoorzieningen registreren meldingen en helpen slachtoffers."
+    },
+    {
+      "id": "pol-04",
+      "topic": "Politie en klachten",
+      "question": "Wat is het Juridisch Loket?",
+      "options": [
+        "Een organisatie voor gratis juridisch advies bij een laag inkomen",
+        "Een rechtbank",
+        "Een verzekeringsmaatschappij"
+      ],
+      "correctIndex": 0,
+      "explanation": "Het Juridisch Loket geeft gratis basisadvies; bij een laag inkomen krijg je korting op een advocaat."
+    },
+    {
+      "id": "fin-01",
+      "topic": "Financiën en hulp",
+      "question": "Wat is het Nibud?",
+      "options": [
+        "Een bank",
+        "Een organisatie die helpt bij budget en geldzaken",
+        "Een uitkeringsinstantie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nibud (Nationaal Instituut voor Budgetvoorlichting) geeft tips voor budget en schulden."
+    },
+    {
+      "id": "fin-02",
+      "topic": "Financiën en hulp",
+      "question": "Wat is een 'voedselbank'?",
+      "options": [
+        "Een supermarkt",
+        "Een organisatie die gratis voedsel geeft aan mensen met een laag inkomen",
+        "Een soort bank voor leningen"
+      ],
+      "correctIndex": 1,
+      "explanation": "De voedselbank verstrekt gratis voedselpakketten aan gezinnen die het zelf niet kunnen betalen."
+    },
+    {
+      "id": "fin-03",
+      "topic": "Financiën en hulp",
+      "question": "Wat is 'schuldhulpverlening'?",
+      "options": [
+        "Hulp bij belasting",
+        "Hulp om uit financiële schulden te komen",
+        "Een soort lening"
+      ],
+      "correctIndex": 1,
+      "explanation": "Schuldhulpverlening (vaak via de gemeente) helpt mensen uit hun schulden te komen."
+    },
+    {
+      "id": "ov-01",
+      "topic": "Overheid digitaal",
+      "question": "Wat is een bsn?",
+      "options": [
+        "Een paspoort",
+        "Burgerservicenummer — uniek persoonsnummer van 9 cijfers",
+        "Een soort verzekering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iedereen die in Nederland woont krijgt een bsn; de overheid en zorg gebruiken het."
+    },
+    {
+      "id": "ov-02",
+      "topic": "Overheid digitaal",
+      "question": "Wat is een DigiD?",
+      "options": [
+        "Een soort digitaal paspoort om in te loggen bij de overheid",
+        "Een telefoonabonnement",
+        "Een soort uitkering"
+      ],
+      "correctIndex": 0,
+      "explanation": "Met je DigiD log je in bij overheidsdiensten zoals Belastingdienst, DUO, gemeente."
+    },
+    {
+      "id": "ov-03",
+      "topic": "Overheid digitaal",
+      "question": "Wat is 'corruptie' bij de overheid?",
+      "options": [
+        "Een normaal werkproces",
+        "Geld of cadeaus aannemen om iemand voor te trekken — verboden",
+        "Belasting innen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ambtenaren mogen geen geld of cadeaus aannemen voor hun werk; dat is corruptie en strafbaar."
+    },
+    {
+      "id": "gesch-extra-01",
+      "topic": "Geschiedenis extra",
+      "question": "Hoe lang duurde de Tachtigjarige Oorlog tussen de Nederlanden en Spanje?",
+      "options": [
+        "8 jaar",
+        "80 jaar",
+        "180 jaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Tachtigjarige Oorlog (1568-1648) duurde 80 jaar."
+    },
+    {
+      "id": "gesch-extra-02",
+      "topic": "Geschiedenis extra",
+      "question": "Wanneer kreeg Hitler de macht in Duitsland?",
+      "options": [
+        "1918",
+        "1933",
+        "1945"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1933 werd Hitler rijkskanselier in Duitsland; daarna begon hij andere landen te bedreigen."
+    },
+    {
+      "id": "gesch-extra-03",
+      "topic": "Geschiedenis extra",
+      "question": "Hoe lang duurde het voordat Duitsland Nederland in 1940 had bezet?",
+      "options": [
+        "1 dag",
+        "5 dagen",
+        "1 maand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na het bombardement op Rotterdam capituleerde Nederland binnen 5 dagen (10-15 mei 1940)."
+    },
+    {
+      "id": "gesch-extra-04",
+      "topic": "Geschiedenis extra",
+      "question": "Welke landen vochten samen tegen Duitsland in WO II om Nederland te bevrijden?",
+      "options": [
+        "VS, Canada, Engeland en Rusland",
+        "Frankrijk en Spanje",
+        "Polen en Italië"
+      ],
+      "correctIndex": 0,
+      "explanation": "De geallieerden — VS, Canada, Engeland en Rusland — versloegen Duitsland in 1945."
+    },
+    {
+      "id": "gesch-extra-05",
+      "topic": "Geschiedenis extra",
+      "question": "Wat zijn 'plantages' in de koloniën?",
+      "options": [
+        "Grote landbouwbedrijven waar tot slaaf gemaakte mensen werkten",
+        "Kleine boerderijen in Nederland",
+        "Bossen in Suriname"
+      ],
+      "correctIndex": 0,
+      "explanation": "Op plantages in Suriname en de Antillen werkten tot slaaf gemaakte mensen onder dwang."
+    },
+    {
+      "id": "gesch-extra-06",
+      "topic": "Geschiedenis extra",
+      "question": "Welke kleur droegen Joden tijdens WO II verplicht op hun kleren?",
+      "options": [
+        "Een rode driehoek",
+        "Een gele Jodenster",
+        "Een blauwe band"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vanaf 1942 moesten Joden in bezet Nederland een gele Davidster met 'Jood' dragen."
+    },
+    {
+      "id": "wonen-extra-01",
+      "topic": "Wonen en water extra",
+      "question": "Wat is de Afsluitdijk?",
+      "options": [
+        "Een dijk in Zeeland tegen de zee",
+        "De dijk die in 1932 de Zuiderzee afsloot — daardoor werd het IJsselmeer",
+        "Een dijk om Amsterdam"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Afsluitdijk (1932) verbindt Noord-Holland en Friesland en maakte het IJsselmeer."
+    },
+    {
+      "id": "wonen-extra-02",
+      "topic": "Wonen en water extra",
+      "question": "Wat is 'OV' in Nederland?",
+      "options": [
+        "Openbaar vervoer — bus, tram, metro, trein",
+        "Een soort verzekering",
+        "Onroerende-zaakbelasting"
+      ],
+      "correctIndex": 0,
+      "explanation": "OV staat voor openbaar vervoer; je kunt betalen met OVpay of OV-chipkaart."
+    },
+    {
+      "id": "wonen-extra-03",
+      "topic": "Wonen en water extra",
+      "question": "Wie is verantwoordelijk voor de dijken en het drinkwater in een gebied?",
+      "options": [
+        "De gemeente",
+        "Het waterschap",
+        "De Belastingdienst"
+      ],
+      "correctIndex": 1,
+      "explanation": "Waterschappen zorgen voor waterveiligheid (dijken) en schoon water (rivieren, drinkwater)."
+    },
+    {
+      "id": "wonen-extra-04",
+      "topic": "Wonen en water extra",
+      "question": "Wat is 'sociale huur'?",
+      "options": [
+        "Huren tegen een lage prijs via een woningcorporatie — voor mensen met een lager inkomen",
+        "Gratis huren",
+        "Huren bij familie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sociale huurwoningen zijn betaalbaar (max-huur jaarlijks vastgesteld) en gericht op lage inkomens."
+    },
+    {
+      "id": "zorg-extra-01",
+      "topic": "Gezondheidszorg extra",
+      "question": "Wat is het 'consultatiebureau'?",
+      "options": [
+        "Een ziekenhuis",
+        "Een plek waar de groei en gezondheid van baby's en jonge kinderen wordt gevolgd",
+        "Een huisartsenpraktijk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Het consultatiebureau (jeugdgezondheidszorg) controleert kinderen 0-4 jaar; geeft ook vaccinaties."
+    },
+    {
+      "id": "zorg-extra-02",
+      "topic": "Gezondheidszorg extra",
+      "question": "Wat doet de GGD?",
+      "options": [
+        "Verzorgt huurtoeslag",
+        "Werkt aan publieke gezondheid — vaccinaties, soa-tests, infectieziekten",
+        "Geeft schuldhulp"
+      ],
+      "correctIndex": 1,
+      "explanation": "De Gemeentelijke Gezondheidsdienst (GGD) doet o.a. vaccinaties, soa-tests en infectieziektebestrijding."
+    },
+    {
+      "id": "zorg-extra-03",
+      "topic": "Gezondheidszorg extra",
+      "question": "Wie geeft je verwijzing naar een specialist?",
+      "options": [
+        "De apotheek",
+        "De huisarts",
+        "De gemeente"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voor de meeste specialisten heb je een verwijsbrief van de huisarts nodig."
+    },
+    {
+      "id": "pol-extra-01",
+      "topic": "Politiek extra",
+      "question": "Wat zijn 'linkse' partijen?",
+      "options": [
+        "Partijen die vooral lage belastingen voor bedrijven willen",
+        "Partijen die vinden dat het verschil tussen rijk en arm kleiner moet en uitkeringen hoog genoeg moeten zijn",
+        "Partijen die alle overheidssteun willen afschaffen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Linkse partijen leggen nadruk op solidariteit, herverdeling en sterke publieke voorzieningen."
+    },
+    {
+      "id": "pol-extra-02",
+      "topic": "Politiek extra",
+      "question": "Wat zijn 'rechtse' partijen?",
+      "options": [
+        "Partijen die vinden dat mensen vooral voor zichzelf moeten zorgen, en dat het goed gaan met bedrijven belangrijk is",
+        "Partijen die altijd in de oppositie zitten",
+        "Partijen alleen voor jongeren"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rechtse partijen leggen nadruk op individuele verantwoordelijkheid, lagere belastingen en bedrijfsleven."
+    },
+    {
+      "id": "pol-extra-03",
+      "topic": "Politiek extra",
+      "question": "Wat is een 'progressieve' partij?",
+      "options": [
+        "Een partij die snel verandering en vernieuwing wil in de maatschappij",
+        "Een partij die conservatief is",
+        "Een partij zonder leider"
+      ],
+      "correctIndex": 0,
+      "explanation": "Progressieve partijen willen veranderingen — bv. op het gebied van migratie, klimaat of emancipatie."
+    },
+    {
+      "id": "pol-extra-04",
+      "topic": "Politiek extra",
+      "question": "Wat gebeurt er als 'het kabinet valt'?",
+      "options": [
+        "Niets — het kabinet werkt gewoon door",
+        "De ministers stoppen met samenwerken; meestal volgen er nieuwe verkiezingen",
+        "De koning wordt afgezet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Als coalitiepartijen niet meer kunnen samenwerken valt het kabinet en komen er meestal vervroegde verkiezingen."
+    },
+    {
+      "id": "pol-extra-05",
+      "topic": "Politiek extra",
+      "question": "Wat is een 'regeringspartij'?",
+      "options": [
+        "Een partij die in de oppositie zit",
+        "Een partij die deel uitmaakt van de coalitie en de regering levert",
+        "Een partij in de Eerste Kamer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regeringspartijen vormen samen de coalitie en leveren de ministers."
+    }
+  ]
+}
